@@ -5,6 +5,12 @@ const inputFile =
 const outputFile =
   "/home/hayes/holbertonschool-the-joy-of-painting-api/data_list/The_Joy_Of_Painting_Episode_Dates.json";
 
+function normalizeTitle(title) {
+  // Implement any specific title normalization logic here
+  // For example, converting "mt." to "mount", etc.
+  return title.replace(/\bMount\b/gi, "Mt.").toLowerCase();
+}
+
 fs.readFile(inputFile, "utf8", (err, data) => {
   if (err) {
     console.error(err);
@@ -18,7 +24,7 @@ fs.readFile(inputFile, "utf8", (err, data) => {
 
   const episodes = lines.map((line) => {
     const titleMatch = line.match(/"([^"]+)" \(([^)]+)\)/);
-    const title = titleMatch ? titleMatch[1].trim().toLowerCase() : null;
+    let title = titleMatch ? normalizeTitle(titleMatch[1].trim()) : null;
     let date = titleMatch ? new Date(titleMatch[2].trim()) : null;
     date = date ? date.toISOString().split("T")[0] : null;
 
