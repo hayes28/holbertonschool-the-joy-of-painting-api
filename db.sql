@@ -1,20 +1,21 @@
 -- Creating 'Episodes' table
 CREATE TABLE episodes (
     episode_id SERIAL PRIMARY KEY,
-    title VARCHAR(255),
-    broadcast_date DATE
+    title VARCHAR(100),
+    broadcast_date DATE,
+    guest VARCHAR(100)
 );
 
 -- Creating 'Subjects' table
 CREATE TABLE subjects (
     subject_id SERIAL PRIMARY KEY,
-    name VARCHAR(255)
+    name VARCHAR(20)
 );
 
 -- Creating 'Colors' table
 CREATE TABLE colors (
     color_id SERIAL PRIMARY KEY,
-    name VARCHAR(255),
+    name VARCHAR(20),
     hex_code VARCHAR(7)
 );
 

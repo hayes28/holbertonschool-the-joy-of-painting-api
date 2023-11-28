@@ -1,0 +1,2017 @@
+[
+  {
+    "title": "A Walk in the Woods",
+    "date": "January 11, 1983",
+    "guest": null
+  },
+  {
+    "title": "Mount McKinley",
+    "date": "January 11, 1983",
+    "guest": null
+  },
+  {
+    "title": "Ebony Sunset",
+    "date": "January 18, 1983",
+    "guest": null
+  },
+  {
+    "title": "Winter Mist",
+    "date": "January 25, 1983",
+    "guest": null
+  },
+  {
+    "title": "Quiet Stream",
+    "date": "February 1, 1983",
+    "guest": null
+  },
+  {
+    "title": "Winter Moon",
+    "date": "February 8, 1983",
+    "guest": null
+  },
+  {
+    "title": "Autumn Mountains",
+    "date": "February 15, 1983",
+    "guest": null
+  },
+  {
+    "title": "Peaceful Valley",
+    "date": "February 22, 1983",
+    "guest": null
+  },
+  {
+    "title": "Seascape",
+    "date": "March 1, 1983",
+    "guest": null
+  },
+  {
+    "title": "Mountain Lake",
+    "date": "March 8, 1983",
+    "guest": null
+  },
+  {
+    "title": "Winter Glow",
+    "date": "March 15, 1983",
+    "guest": null
+  },
+  {
+    "title": "Snowfall",
+    "date": "March 22, 1983",
+    "guest": null
+  },
+  {
+    "title": "Final Reflections",
+    "date": "March 29, 1983",
+    "guest": null
+  },
+  {
+    "title": "Meadow Lake",
+    "date": "August 31, 1983",
+    "guest": null
+  },
+  {
+    "title": "Winter Sun",
+    "date": "September 7, 1983",
+    "guest": null
+  },
+  {
+    "title": "Ebony Sea",
+    "date": "September 14, 1983",
+    "guest": null
+  },
+  {
+    "title": "Shades of Gray",
+    "date": "September 21, 1983",
+    "guest": null
+  },
+  {
+    "title": "Autumn Splendor",
+    "date": "September 28, 1983",
+    "guest": null
+  },
+  {
+    "title": "Black River",
+    "date": "October 5, 1983",
+    "guest": null
+  },
+  {
+    "title": "Brown Mountain",
+    "date": "October 12, 1983",
+    "guest": null
+  },
+  {
+    "title": "Reflections",
+    "date": "October 19, 1983",
+    "guest": null
+  },
+  {
+    "title": "Black & White Seascape",
+    "date": "October 26, 1983",
+    "guest": null
+  },
+  {
+    "title": "Lazy River",
+    "date": "November 2, 1983",
+    "guest": null
+  },
+  {
+    "title": "Black Waterfall",
+    "date": "November 9, 1983",
+    "guest": null
+  },
+  {
+    "title": "Mountain Waterfall",
+    "date": "November 16, 1983",
+    "guest": null
+  },
+  {
+    "title": "Final Grace",
+    "date": "November 23, 1983",
+    "guest": null
+  },
+  {
+    "title": "Mountain Retreat",
+    "date": "January 4, 1984",
+    "guest": null
+  },
+  {
+    "title": "Blue Moon",
+    "date": "January 11, 1984",
+    "guest": null
+  },
+  {
+    "title": "Bubbling Stream",
+    "date": "January 18, 1984",
+    "guest": null
+  },
+  {
+    "title": "Winter Night",
+    "date": "January 25, 1984",
+    "guest": null
+  },
+  {
+    "title": "Distant Hills",
+    "date": "February 1, 1984",
+    "guest": null
+  },
+  {
+    "title": "Covered Bridge",
+    "date": "February 8, 1984",
+    "guest": null
+  },
+  {
+    "title": "Quiet Inlet",
+    "date": "February 15, 1984",
+    "guest": null
+  },
+  {
+    "title": "Night Light",
+    "date": "February 22, 1984",
+    "guest": null
+  },
+  {
+    "title": "The Old Mill",
+    "date": "March 1, 1984",
+    "guest": null
+  },
+  {
+    "title": "Campfire",
+    "date": "March 8, 1984",
+    "guest": null
+  },
+  {
+    "title": "Rustic Barn",
+    "date": "March 15, 1984",
+    "guest": null
+  },
+  {
+    "title": "Hidden Lake",
+    "date": "March 22, 1984",
+    "guest": null
+  },
+  {
+    "title": "Peaceful Waters",
+    "date": "March 29, 1984",
+    "guest": null
+  },
+  {
+    "title": "Purple Splendor",
+    "date": "September 5, 1984",
+    "guest": null
+  },
+  {
+    "title": "Tranquil Valley",
+    "date": "September 12, 1984",
+    "guest": null
+  },
+  {
+    "title": "Majestic Mountains",
+    "date": "September 19, 1984",
+    "guest": null
+  },
+  {
+    "title": "Winter Sawscape",
+    "date": "September 26, 1984",
+    "guest": null
+  },
+  {
+    "title": "Evening Seascape",
+    "date": "October 3, 1984",
+    "guest": null
+  },
+  {
+    "title": "Warm Summer Day",
+    "date": "October 10, 1984",
+    "guest": null
+  },
+  {
+    "title": "Cabin in the Woods",
+    "date": "October 17, 1984",
+    "guest": null
+  },
+  {
+    "title": "Wetlands",
+    "date": "October 24, 1984",
+    "guest": null
+  },
+  {
+    "title": "Cool Waters",
+    "date": "October 31, 1984",
+    "guest": null
+  },
+  {
+    "title": "Quiet Woods",
+    "date": "November 7, 1984",
+    "guest": null
+  },
+  {
+    "title": "Northwest Majesty",
+    "date": "November 14, 1984",
+    "guest": null
+  },
+  {
+    "title": "Autumn Days",
+    "date": "November 21, 1984",
+    "guest": null
+  },
+  {
+    "title": "Mountain Challenge",
+    "date": "November 28, 1984",
+    "guest": null
+  },
+  {
+    "title": "Mountain Waterfall",
+    "date": "January 2, 1985",
+    "guest": null
+  },
+  {
+    "title": "Twilight Meadow",
+    "date": "January 9, 1985",
+    "guest": null
+  },
+  {
+    "title": "Mountain Blossoms",
+    "date": "January 16, 1985",
+    "guest": null
+  },
+  {
+    "title": "Winter Stillness",
+    "date": "January 23, 1985",
+    "guest": null
+  },
+  {
+    "title": "Quiet Pond",
+    "date": "January 30, 1985",
+    "guest": null
+  },
+  {
+    "title": "Ocean Sunrise",
+    "date": "February 6, 1985",
+    "guest": "Audrey Golden"
+  },
+  {
+    "title": "Bubbling Brook",
+    "date": "February 13, 1985",
+    "guest": null
+  },
+  {
+    "title": "Arizona Splendor",
+    "date": "February 20, 1985",
+    "guest": null
+  },
+  {
+    "title": "Anatomy of a Wave",
+    "date": "February 27, 1985",
+    "guest": "Joyce Ortner"
+  },
+  {
+    "title": "The Windmill",
+    "date": "March 6, 1985",
+    "guest": null
+  },
+  {
+    "title": "Autumn Glory",
+    "date": "March 13, 1985",
+    "guest": null
+  },
+  {
+    "title": "Indian Girl",
+    "date": "March 20, 1985",
+    "guest": null
+  },
+  {
+    "title": "Meadow Stream",
+    "date": "March 27, 1985",
+    "guest": null
+  },
+  {
+    "title": "Blue River",
+    "date": "May 1, 1985",
+    "guest": null
+  },
+  {
+    "title": "Nature's Edge",
+    "date": "May 8, 1985",
+    "guest": null
+  },
+  {
+    "title": "Morning Mist",
+    "date": "May 15, 1985",
+    "guest": null
+  },
+  {
+    "title": "Whispering Stream",
+    "date": "May 22, 1985",
+    "guest": null
+  },
+  {
+    "title": "Secluded Forest",
+    "date": "May 29, 1985",
+    "guest": null
+  },
+  {
+    "title": "Snow Trail",
+    "date": "June 5, 1985",
+    "guest": null
+  },
+  {
+    "title": "Arctic Beauty",
+    "date": "June 12, 1985",
+    "guest": null
+  },
+  {
+    "title": "Horizons West",
+    "date": "June 19, 1985",
+    "guest": null
+  },
+  {
+    "title": "High Chateau",
+    "date": "June 26, 1985",
+    "guest": null
+  },
+  {
+    "title": "Country Life",
+    "date": "July 2, 1985",
+    "guest": null
+  },
+  {
+    "title": "Western Expanse",
+    "date": "July 9, 1985",
+    "guest": null
+  },
+  {
+    "title": "Marshlands",
+    "date": "July 16, 1985",
+    "guest": null
+  },
+  {
+    "title": "Blaze of Color",
+    "date": "July 23, 1985",
+    "guest": null
+  },
+  {
+    "title": "Winter Cabin",
+    "date": "October 2, 1985",
+    "guest": null
+  },
+  {
+    "title": "Secluded Lake",
+    "date": "October 9, 1985",
+    "guest": null
+  },
+  {
+    "title": "Evergreen at Sunset",
+    "date": "October 16, 1985",
+    "guest": null
+  },
+  {
+    "title": "Mountain Cabin",
+    "date": "October 23, 1985",
+    "guest": null
+  },
+  {
+    "title": "Portrait of Sally",
+    "date": "October 30, 1985",
+    "guest": null
+  },
+  {
+    "title": "Misty Waterfall",
+    "date": "November 6, 1985",
+    "guest": null
+  },
+  {
+    "title": "Barn at Sunset",
+    "date": "November 13, 1985",
+    "guest": null
+  },
+  {
+    "title": "Mountain Splendor",
+    "date": "November 20, 1985",
+    "guest": null
+  },
+  {
+    "title": "Lake by Mountain",
+    "date": "November 27, 1985",
+    "guest": null
+  },
+  {
+    "title": "Mountain Glory",
+    "date": "December 6, 1985",
+    "guest": null
+  },
+  {
+    "title": "Grey Winter",
+    "date": "December 13, 1985",
+    "guest": null
+  },
+  {
+    "title": "Dock Scene",
+    "date": "December 20, 1985",
+    "guest": null
+  },
+  {
+    "title": "Dark Waterfall",
+    "date": "December 27, 1985",
+    "guest": null
+  },
+  {
+    "title": "Misty Rolling Hills",
+    "date": "January 2, 1986",
+    "guest": null
+  },
+  {
+    "title": "Lakeside Cabin",
+    "date": "January 9, 1986",
+    "guest": null
+  },
+  {
+    "title": "Warm Winter Day",
+    "date": "January 16, 1986",
+    "guest": null
+  },
+  {
+    "title": "Waterside Way",
+    "date": "January 23, 1986",
+    "guest": null
+  },
+  {
+    "title": "Hunter's Haven",
+    "date": "January 30, 1986",
+    "guest": null
+  },
+  {
+    "title": "Bubbling Mountain Brook",
+    "date": "February 6, 1986",
+    "guest": null
+  },
+  {
+    "title": "Winter Hideaway",
+    "date": "February 13, 1986",
+    "guest": null
+  },
+  {
+    "title": "Foot of the Mountain",
+    "date": "February 20, 1986",
+    "guest": null
+  },
+  {
+    "title": "Majestic Pine",
+    "date": "February 27, 1986",
+    "guest": null
+  },
+  {
+    "title": "Cactus at Sunset",
+    "date": "March 6, 1986",
+    "guest": null
+  },
+  {
+    "title": "Mountain Range",
+    "date": "March 13, 1986",
+    "guest": null
+  },
+  {
+    "title": "Lonely Retreat",
+    "date": "March 20, 1986",
+    "guest": null
+  },
+  {
+    "title": "Northern Lights",
+    "date": "March 27, 1986",
+    "guest": null
+  },
+  {
+    "title": "Winter Evergreens",
+    "date": "April 30, 1986",
+    "guest": null
+  },
+  {
+    "title": "Surf's Up",
+    "date": "May 7, 1986",
+    "guest": null
+  },
+  {
+    "title": "Red Sunset",
+    "date": "May 14, 1986",
+    "guest": null
+  },
+  {
+    "title": "Meadow Road",
+    "date": "May 21, 1986",
+    "guest": null
+  },
+  {
+    "title": "Winter Oval",
+    "date": "May 28, 1986",
+    "guest": null
+  },
+  {
+    "title": "Secluded Beach",
+    "date": "June 4, 1986",
+    "guest": null
+  },
+  {
+    "title": "Forest Hills",
+    "date": "June 11, 1986",
+    "guest": null
+  },
+  {
+    "title": "Little House by the Road",
+    "date": "June 18, 1986",
+    "guest": null
+  },
+  {
+    "title": "Mountain Pass",
+    "date": "June 25, 1986",
+    "guest": null
+  },
+  {
+    "title": "Country Charm",
+    "date": "July 2, 1986",
+    "guest": null
+  },
+  {
+    "title": "Nature's Paradise",
+    "date": "July 9, 1986",
+    "guest": null
+  },
+  {
+    "title": "Mountain by the Sea",
+    "date": "July 16, 1986",
+    "guest": null
+  },
+  {
+    "title": "Mountain Hideaway",
+    "date": "July 23, 1986",
+    "guest": null
+  },
+  {
+    "title": "Towering Peaks",
+    "date": "September 3, 1986",
+    "guest": null
+  },
+  {
+    "title": "Cabin at Sunset",
+    "date": "September 10, 1986",
+    "guest": null
+  },
+  {
+    "title": "Twin Falls",
+    "date": "September 17, 1986",
+    "guest": null
+  },
+  {
+    "title": "Secluded Bridge",
+    "date": "September 24, 1986",
+    "guest": null
+  },
+  {
+    "title": "Ocean Breeze",
+    "date": "October 1, 1986",
+    "guest": null
+  },
+  {
+    "title": "Autumn Woods",
+    "date": "October 8, 1986",
+    "guest": null
+  },
+  {
+    "title": "Winter Solitude",
+    "date": "October 15, 1986",
+    "guest": null
+  },
+  {
+    "title": "Golden Sunset",
+    "date": "October 22, 1986",
+    "guest": null
+  },
+  {
+    "title": "Mountain Oval",
+    "date": "October 29, 1986",
+    "guest": null
+  },
+  {
+    "title": "Ocean Sunset",
+    "date": "November 5, 1986",
+    "guest": null
+  },
+  {
+    "title": "Triple View",
+    "date": "November 12, 1986",
+    "guest": null
+  },
+  {
+    "title": "Winter Frost",
+    "date": "November 19, 1986",
+    "guest": null
+  },
+  {
+    "title": "Lakeside Cabin",
+    "date": "November 26, 1986",
+    "guest": null
+  },
+  {
+    "title": "Mountain Stream",
+    "date": "December 31, 1986",
+    "guest": null
+  },
+  {
+    "title": "Country Cabin",
+    "date": "January 7, 1987",
+    "guest": null
+  },
+  {
+    "title": "Daisy Delight",
+    "date": "January 14, 1987",
+    "guest": null
+  },
+  {
+    "title": "Hidden Stream",
+    "date": "January 21, 1987",
+    "guest": null
+  },
+  {
+    "title": "Towering Glacier",
+    "date": "January 28, 1987",
+    "guest": null
+  },
+  {
+    "title": "Oval Barn",
+    "date": "February 4, 1987",
+    "guest": null
+  },
+  {
+    "title": "Lakeside Path",
+    "date": "February 11, 1987",
+    "guest": null
+  },
+  {
+    "title": "Sunset Oval",
+    "date": "February 18, 1987",
+    "guest": null
+  },
+  {
+    "title": "Winter Barn",
+    "date": "February 25, 1987",
+    "guest": null
+  },
+  {
+    "title": "Sunset Over the Waves",
+    "date": "March 4, 1987",
+    "guest": null
+  },
+  {
+    "title": "Golden Glow",
+    "date": "March 11, 1987",
+    "guest": null
+  },
+  {
+    "title": "Roadside Barn",
+    "date": "March 18, 1987",
+    "guest": null
+  },
+  {
+    "title": "Happy Accident",
+    "date": "March 25, 1987",
+    "guest": null
+  },
+  {
+    "title": "Golden Knoll",
+    "date": "April 29, 1987",
+    "guest": null
+  },
+  {
+    "title": "Mountain Reflections",
+    "date": "May 6, 1987",
+    "guest": null
+  },
+  {
+    "title": "Secluded Mountain",
+    "date": "May 13, 1987",
+    "guest": null
+  },
+  {
+    "title": "Bright Autumn Trees",
+    "date": "May 20, 1987",
+    "guest": null
+  },
+  {
+    "title": "Black Seascape",
+    "date": "May 27, 1987",
+    "guest": null
+  },
+  {
+    "title": "Steep Mountains",
+    "date": "June 3, 1987",
+    "guest": null
+  },
+  {
+    "title": "Quiet Mountain River",
+    "date": "June 10, 1987",
+    "guest": null
+  },
+  {
+    "title": "Evening Waterfall",
+    "date": "June 17, 1987",
+    "guest": null
+  },
+  {
+    "title": "Tropical Seascape",
+    "date": "June 24, 1987",
+    "guest": null
+  },
+  {
+    "title": "Mountain at Sunset",
+    "date": "July 1, 1987",
+    "guest": null
+  },
+  {
+    "title": "Soft Mountain Glow",
+    "date": "July 8, 1987",
+    "guest": null
+  },
+  {
+    "title": "Mountain in an Oval",
+    "date": "July 15, 1987",
+    "guest": null
+  },
+  {
+    "title": "Winter Mountain",
+    "date": "July 22, 1987",
+    "guest": null
+  },
+  {
+    "title": "Rolling Hills",
+    "date": "September 2, 1987",
+    "guest": null
+  },
+  {
+    "title": "Frozen Solitude",
+    "date": "September 9, 1987",
+    "guest": null
+  },
+  {
+    "title": "Meadow Brook",
+    "date": "September 16, 1987",
+    "guest": null
+  },
+  {
+    "title": "Evening Sunset",
+    "date": "September 23, 1987",
+    "guest": null
+  },
+  {
+    "title": "Mountain View",
+    "date": "September 30, 1987",
+    "guest": null
+  },
+  {
+    "title": "Hidden Creek",
+    "date": "October 7, 1987",
+    "guest": null
+  },
+  {
+    "title": "Peaceful Haven",
+    "date": "October 14, 1987",
+    "guest": null
+  },
+  {
+    "title": "Mountain Exhibition",
+    "date": "October 21, 1987",
+    "guest": null
+  },
+  {
+    "title": "Emerald Waters",
+    "date": "October 28, 1987",
+    "guest": null
+  },
+  {
+    "title": "Mountain Summit",
+    "date": "November 4, 1987",
+    "guest": null
+  },
+  {
+    "title": "Cabin Hideaway",
+    "date": "November 11, 1987",
+    "guest": null
+  },
+  {
+    "title": "Oval Essence",
+    "date": "November 18, 1987",
+    "guest": null
+  },
+  {
+    "title": "Lost Lake",
+    "date": "November 25, 1987",
+    "guest": null
+  },
+  {
+    "title": "Distant Mountains",
+    "date": "December 30, 1987",
+    "guest": null
+  },
+  {
+    "title": "Meadow Brook Surprise",
+    "date": "January 6, 1988",
+    "guest": null
+  },
+  {
+    "title": "Mountain Moonlight Oval",
+    "date": "January 13, 1988",
+    "guest": null
+  },
+  {
+    "title": "Snowy Solitude",
+    "date": "January 20, 1988",
+    "guest": null
+  },
+  {
+    "title": "Mountain River",
+    "date": "January 27, 1988",
+    "guest": null
+  },
+  {
+    "title": "Graceful Mountains",
+    "date": "February 3, 1988",
+    "guest": null
+  },
+  {
+    "title": "Windy Waves",
+    "date": "February 10, 1988",
+    "guest": null
+  },
+  {
+    "title": "On a Clear Day",
+    "date": "February 17, 1988",
+    "guest": null
+  },
+  {
+    "title": "Riverside Escape Oval",
+    "date": "February 24, 1988",
+    "guest": null
+  },
+  {
+    "title": "Surprising Falls",
+    "date": "March 2, 1988",
+    "guest": null
+  },
+  {
+    "title": "Shadow Pond",
+    "date": "March 9, 1988",
+    "guest": null
+  },
+  {
+    "title": "Misty Forest",
+    "date": "March 16, 1988",
+    "guest": null
+  },
+  {
+    "title": "Natural Wonder",
+    "date": "March 23, 1988",
+    "guest": null
+  },
+  {
+    "title": "Splendor of Winter",
+    "date": "April 27, 1988",
+    "guest": null
+  },
+  {
+    "title": "Colors of Nature",
+    "date": "May 4, 1988",
+    "guest": null
+  },
+  {
+    "title": "Grandpa's Barn",
+    "date": "May 11, 1988",
+    "guest": null
+  },
+  {
+    "title": "Peaceful Reflections",
+    "date": "May 18, 1988",
+    "guest": null
+  },
+  {
+    "title": "Hidden Winter Moon Oval",
+    "date": "May 25, 1988",
+    "guest": null
+  },
+  {
+    "title": "Waves of Wonder",
+    "date": "June 1, 1988",
+    "guest": null
+  },
+  {
+    "title": "Cabin by the Pond",
+    "date": "June 8, 1988",
+    "guest": null
+  },
+  {
+    "title": "Fall Stream",
+    "date": "June 15, 1988",
+    "guest": null
+  },
+  {
+    "title": "Christmas Eve Snow",
+    "date": "June 22, 1988",
+    "guest": null
+  },
+  {
+    "title": "Forest Dawn Oval",
+    "date": "June 29, 1988",
+    "guest": null
+  },
+  {
+    "title": "Pathway to Autumn",
+    "date": "July 6, 1988",
+    "guest": null
+  },
+  {
+    "title": "Deep Forest Lake",
+    "date": "July 13, 1988",
+    "guest": null
+  },
+  {
+    "title": "Peaks of Majesty",
+    "date": "July 20, 1988",
+    "guest": null
+  },
+  {
+    "title": "Two Seasons",
+    "date": "August 17, 1988",
+    "guest": null
+  },
+  {
+    "title": "Nestled Cabin",
+    "date": "August 24, 1988",
+    "guest": null
+  },
+  {
+    "title": "Wintertime Discovery",
+    "date": "August 31, 1988",
+    "guest": null
+  },
+  {
+    "title": "Mountain Mirage",
+    "date": "September 7, 1988",
+    "guest": null
+  },
+  {
+    "title": "Double Oval Fantasy",
+    "date": "September 14, 1988",
+    "guest": null
+  },
+  {
+    "title": "Contemplative Lady",
+    "date": "September 21, 1988",
+    "guest": "John Thamm (Bob Ross's former instructor)"
+  },
+  {
+    "title": "Deep Woods",
+    "date": "September 28, 1988",
+    "guest": null
+  },
+  {
+    "title": "High Tide",
+    "date": "October 5, 1988",
+    "guest": null
+  },
+  {
+    "title": "Barn in Snow Oval",
+    "date": "October 12, 1988",
+    "guest": null
+  },
+  {
+    "title": "That Time of Year",
+    "date": "October 19, 1988",
+    "guest": "Steve Ross (Bob's son)"
+  },
+  {
+    "title": "Waterfall Wonder",
+    "date": "October 26, 1988",
+    "guest": null
+  },
+  {
+    "title": "Mighty Mountain Lake",
+    "date": "November 2, 1988",
+    "guest": null
+  },
+  {
+    "title": "Wooded Stream Oval",
+    "date": "November 9, 1988",
+    "guest": null
+  },
+  {
+    "title": "Golden Mist Oval",
+    "date": "January 4, 1989",
+    "guest": null
+  },
+  {
+    "title": "Old Place Home",
+    "date": "January 11, 1989",
+    "guest": null
+  },
+  {
+    "title": "Soothing Vista",
+    "date": "January 18, 1989",
+    "guest": null
+  },
+  {
+    "title": "Stormy Seas",
+    "date": "January 25, 1989",
+    "guest": null
+  },
+  {
+    "title": "Country Time",
+    "date": "February 1, 1989",
+    "guest": null
+  },
+  {
+    "title": "A Mild Winter's Day",
+    "date": "February 8, 1989",
+    "guest": null
+  },
+  {
+    "title": "Spectacular Waterfall",
+    "date": "February 15, 1989",
+    "guest": null
+  },
+  {
+    "title": "View From the Park",
+    "date": "February 22, 1989",
+    "guest": null
+  },
+  {
+    "title": "Lake View",
+    "date": "March 1, 1989",
+    "guest": null
+  },
+  {
+    "title": "Old Country Mill",
+    "date": "March 8, 1989",
+    "guest": null
+  },
+  {
+    "title": "Morning Walk",
+    "date": "March 15, 1989",
+    "guest": null
+  },
+  {
+    "title": "Nature's Splendor",
+    "date": "March 22, 1989",
+    "guest": null
+  },
+  {
+    "title": "Mountain Beauty",
+    "date": "March 29, 1989",
+    "guest": null
+  },
+  {
+    "title": "Half Oval Vignette",
+    "date": "July 5, 1989",
+    "guest": null
+  },
+  {
+    "title": "Absolutely Autumn",
+    "date": "July 12, 1989",
+    "guest": null
+  },
+  {
+    "title": "Mountain Seclusion",
+    "date": "July 19, 1989",
+    "guest": null
+  },
+  {
+    "title": "Crimson Oval",
+    "date": "July 26, 1989",
+    "guest": null
+  },
+  {
+    "title": "Autumn Exhibition",
+    "date": "August 2, 1989",
+    "guest": null
+  },
+  {
+    "title": "Majestic Peaks",
+    "date": "August 9, 1989",
+    "guest": null
+  },
+  {
+    "title": "Golden Morning Mist",
+    "date": "August 16, 1989",
+    "guest": null
+  },
+  {
+    "title": "Winter Lace",
+    "date": "August 23, 1989",
+    "guest": null
+  },
+  {
+    "title": "Seascape Fantasy",
+    "date": "August 30, 1989",
+    "guest": null
+  },
+  {
+    "title": "Double Oval Stream",
+    "date": "September 6, 1989",
+    "guest": null
+  },
+  {
+    "title": "Enchanted Forest",
+    "date": "September 13, 1989",
+    "guest": null
+  },
+  {
+    "title": "Southwest Serenity",
+    "date": "September 20, 1989",
+    "guest": null
+  },
+  {
+    "title": "Rippling Waters",
+    "date": "September 27, 1989",
+    "guest": null
+  },
+  {
+    "title": "Snowfall Magic",
+    "date": "January 3, 1990",
+    "guest": null
+  },
+  {
+    "title": "Quiet Mountain Lake",
+    "date": "January 10, 1990",
+    "guest": null
+  },
+  {
+    "title": "Final Embers of Sunlight",
+    "date": "January 17, 1990",
+    "guest": null
+  },
+  {
+    "title": "Snowy Morn",
+    "date": "January 24, 1990",
+    "guest": null
+  },
+  {
+    "title": "Camper's Haven",
+    "date": "January 31, 1990",
+    "guest": null
+  },
+  {
+    "title": "Waterfall in the Woods",
+    "date": "February 7, 1990",
+    "guest": null
+  },
+  {
+    "title": "Covered Bridge Oval",
+    "date": "February 14, 1990",
+    "guest": null
+  },
+  {
+    "title": "Scenic Seclusion",
+    "date": "February 21, 1990",
+    "guest": null
+  },
+  {
+    "title": "Ebb Tide",
+    "date": "February 28, 1990",
+    "guest": null
+  },
+  {
+    "title": "After the Rain",
+    "date": "March 7, 1990",
+    "guest": null
+  },
+  {
+    "title": "Winter Elegance",
+    "date": "March 14, 1990",
+    "guest": null
+  },
+  {
+    "title": "Evening's Peace",
+    "date": "March 21, 1990",
+    "guest": null
+  },
+  {
+    "title": "Valley of Tranquility",
+    "date": "March 28, 1990",
+    "guest": null
+  },
+  {
+    "title": "Mystic Mountain",
+    "date": "April 4, 1990",
+    "guest": null
+  },
+  {
+    "title": "New Day's Dawn",
+    "date": "April 11, 1990",
+    "guest": null
+  },
+  {
+    "title": "Pastel Winter",
+    "date": "April 18, 1990",
+    "guest": null
+  },
+  {
+    "title": "Hazy Day",
+    "date": "April 25, 1990",
+    "guest": null
+  },
+  {
+    "title": "Divine Elegance",
+    "date": "May 2, 1990",
+    "guest": null
+  },
+  {
+    "title": "Cliffside",
+    "date": "May 9, 1990",
+    "guest": null
+  },
+  {
+    "title": "Autumn Fantasy",
+    "date": "May 16, 1990",
+    "guest": null
+  },
+  {
+    "title": "Old Oak Tree",
+    "date": "May 23, 1990",
+    "guest": null
+  },
+  {
+    "title": "Winter Paradise",
+    "date": "May 30, 1990",
+    "guest": null
+  },
+  {
+    "title": "Days Gone By",
+    "date": "June 6, 1990",
+    "guest": null
+  },
+  {
+    "title": "Change of Seasons",
+    "date": "June 13, 1990",
+    "guest": null
+  },
+  {
+    "title": "Hidden Delight",
+    "date": "June 20, 1990",
+    "guest": null
+  },
+  {
+    "title": "Double Take",
+    "date": "June 27, 1990",
+    "guest": null
+  },
+  {
+    "title": "Valley View",
+    "date": "September 5, 1990",
+    "guest": null
+  },
+  {
+    "title": "Tranquil Dawn",
+    "date": "September 12, 1990",
+    "guest": null
+  },
+  {
+    "title": "Royal Majesty",
+    "date": "September 19, 1990",
+    "guest": null
+  },
+  {
+    "title": "Serenity",
+    "date": "September 26, 1990",
+    "guest": null
+  },
+  {
+    "title": "Cabin at Trial's End",
+    "date": "October 3, 1990",
+    "guest": null
+  },
+  {
+    "title": "Mountain Rhapsody",
+    "date": "October 10, 1990",
+    "guest": null
+  },
+  {
+    "title": "Wilderness Cabin",
+    "date": "October 17, 1990",
+    "guest": null
+  },
+  {
+    "title": "By the Sea",
+    "date": "October 24, 1990",
+    "guest": null
+  },
+  {
+    "title": "Indian Summer",
+    "date": "October 31, 1990",
+    "guest": null
+  },
+  {
+    "title": "Blue Winter",
+    "date": "November 7, 1990",
+    "guest": null
+  },
+  {
+    "title": "Desert Glow",
+    "date": "November 14, 1990",
+    "guest": null
+  },
+  {
+    "title": "Lone Mountain",
+    "date": "November 21, 1990",
+    "guest": null
+  },
+  {
+    "title": "Florida's Glory",
+    "date": "November 28, 1990",
+    "guest": null
+  },
+  {
+    "title": "Autumn Images",
+    "date": "January 1, 1991",
+    "guest": null
+  },
+  {
+    "title": "Hint of Springtime",
+    "date": "January 8, 1991",
+    "guest": null
+  },
+  {
+    "title": "Around the Bend",
+    "date": "January 15, 1991",
+    "guest": null
+  },
+  {
+    "title": "Countryside Oval",
+    "date": "January 22, 1991",
+    "guest": null
+  },
+  {
+    "title": "Russet Winter",
+    "date": "January 29, 1991",
+    "guest": null
+  },
+  {
+    "title": "Purple Haze",
+    "date": "February 5, 1991",
+    "guest": null
+  },
+  {
+    "title": "Dimensions",
+    "date": "February 12, 1991",
+    "guest": null
+  },
+  {
+    "title": "Deep Wilderness Home",
+    "date": "February 19, 1991",
+    "guest": null
+  },
+  {
+    "title": "Haven in the Valley",
+    "date": "February 26, 1991",
+    "guest": null
+  },
+  {
+    "title": "Wintertime Blues",
+    "date": "March 5, 1991",
+    "guest": null
+  },
+  {
+    "title": "Pastel Seascape",
+    "date": "March 12, 1991",
+    "guest": null
+  },
+  {
+    "title": "Country Creek",
+    "date": "March 19, 1991",
+    "guest": null
+  },
+  {
+    "title": "Silent Forest",
+    "date": "March 26, 1991",
+    "guest": null
+  },
+  {
+    "title": "Frosty Winter Morn",
+    "date": "September 3, 1991",
+    "guest": null
+  },
+  {
+    "title": "Forest Edge",
+    "date": "September 10, 1991",
+    "guest": null
+  },
+  {
+    "title": "Mountain Ridge Lake",
+    "date": "September 17, 1991",
+    "guest": null
+  },
+  {
+    "title": "Reflections of Gold",
+    "date": "September 24, 1991",
+    "guest": null
+  },
+  {
+    "title": "Quiet Cove",
+    "date": "October 1, 1991",
+    "guest": null
+  },
+  {
+    "title": "River's Peace",
+    "date": "October 8, 1991",
+    "guest": null
+  },
+  {
+    "title": "At Dawn's Light",
+    "date": "October 15, 1991",
+    "guest": null
+  },
+  {
+    "title": "Valley Waterfall",
+    "date": "October 22, 1991",
+    "guest": null
+  },
+  {
+    "title": "Toward Day's End",
+    "date": "October 29, 1991",
+    "guest": null
+  },
+  {
+    "title": "Falls in the Glen",
+    "date": "November 5, 1991",
+    "guest": null
+  },
+  {
+    "title": "Frozen Beauty in Vignette",
+    "date": "November 12, 1991",
+    "guest": null
+  },
+  {
+    "title": "Crimson Tide",
+    "date": "November 19, 1991",
+    "guest": null
+  },
+  {
+    "title": "Winter Bliss",
+    "date": "November 26, 1991",
+    "guest": null
+  },
+  {
+    "title": "Grey Mountain",
+    "date": "January 7, 1992",
+    "guest": null
+  },
+  {
+    "title": "Wayside Pond",
+    "date": "January 14, 1992",
+    "guest": null
+  },
+  {
+    "title": "Teton Winter",
+    "date": "January 21, 1992",
+    "guest": null
+  },
+  {
+    "title": "Little Home in the Meadow",
+    "date": "January 28, 1992",
+    "guest": null
+  },
+  {
+    "title": "Pretty Autumn Day",
+    "date": "February 4, 1992",
+    "guest": null
+  },
+  {
+    "title": "Mirrored Images",
+    "date": "February 11, 1992",
+    "guest": null
+  },
+  {
+    "title": "Back-Country Path",
+    "date": "February 18, 1992",
+    "guest": null
+  },
+  {
+    "title": "Graceful Waterfall",
+    "date": "February 25, 1992",
+    "guest": null
+  },
+  {
+    "title": "Icy Lake",
+    "date": "March 3, 1992",
+    "guest": null
+  },
+  {
+    "title": "Rowboat on the Beach",
+    "date": "March 10, 1992",
+    "guest": null
+  },
+  {
+    "title": "Portrait of Winter",
+    "date": "March 17, 1992",
+    "guest": null
+  },
+  {
+    "title": "Footbridge",
+    "date": "March 24, 1992",
+    "guest": null
+  },
+  {
+    "title": "Snowbound Cabin",
+    "date": "March 31, 1992",
+    "guest": null
+  },
+  {
+    "title": "Hide-a-Way Cove",
+    "date": "August 25, 1992",
+    "guest": null
+  },
+  {
+    "title": "Enchanted Falls Oval",
+    "date": "September 1, 1992",
+    "guest": null
+  },
+  {
+    "title": "Not Quite Spring",
+    "date": "September 8, 1992",
+    "guest": null
+  },
+  {
+    "title": "Splashes of Autumn",
+    "date": "September 15, 1992",
+    "guest": null
+  },
+  {
+    "title": "Summer in the Mountains",
+    "date": "September 22, 1992",
+    "guest": null
+  },
+  {
+    "title": "Oriental Falls",
+    "date": "September 29, 1992",
+    "guest": null
+  },
+  {
+    "title": "Autumn Palette",
+    "date": "October 6, 1992",
+    "guest": null
+  },
+  {
+    "title": "Cypress Swamp",
+    "date": "October 13, 1992",
+    "guest": null
+  },
+  {
+    "title": "Downstream View",
+    "date": "October 20, 1992",
+    "guest": null
+  },
+  {
+    "title": "Just Before the Storm",
+    "date": "October 27, 1992",
+    "guest": null
+  },
+  {
+    "title": "Fisherman's Paradise",
+    "date": "November 3, 1992",
+    "guest": null
+  },
+  {
+    "title": "Desert Hues",
+    "date": "November 10, 1992",
+    "guest": null
+  },
+  {
+    "title": "The Property Line",
+    "date": "November 17, 1992",
+    "guest": null
+  },
+  {
+    "title": "In the Stillness of Morning",
+    "date": "December 1, 1992",
+    "guest": null
+  },
+  {
+    "title": "Delightful Meadow Home",
+    "date": "December 8, 1992",
+    "guest": null
+  },
+  {
+    "title": "First Snow",
+    "date": "December 15, 1992",
+    "guest": null
+  },
+  {
+    "title": "Lake in the Valley",
+    "date": "December 22, 1992",
+    "guest": null
+  },
+  {
+    "title": "A Trace of Spring",
+    "date": "December 29, 1992",
+    "guest": null
+  },
+  {
+    "title": "An Arctic Winter Day",
+    "date": "January 5, 1993",
+    "guest": null
+  },
+  {
+    "title": "Snow Birch",
+    "date": "January 12, 1993",
+    "guest": null
+  },
+  {
+    "title": "Early Autumn",
+    "date": "January 19, 1993",
+    "guest": null
+  },
+  {
+    "title": "Tranquil Wooded Stream",
+    "date": "January 26, 1993",
+    "guest": null
+  },
+  {
+    "title": "Purple Mountain Range",
+    "date": "February 2, 1993",
+    "guest": null
+  },
+  {
+    "title": "Storm's a Comin'",
+    "date": "February 9, 1993",
+    "guest": null
+  },
+  {
+    "title": "Sunset Aglow",
+    "date": "February 16, 1993",
+    "guest": null
+  },
+  {
+    "title": "Evening at the Falls",
+    "date": "February 23, 1993",
+    "guest": null
+  },
+  {
+    "title": "Twilight Beauty",
+    "date": "March 2, 1993",
+    "guest": null
+  },
+  {
+    "title": "Angler's Haven",
+    "date": "March 9, 1993",
+    "guest": null
+  },
+  {
+    "title": "Rustic Winter Woods",
+    "date": "March 16, 1993",
+    "guest": null
+  },
+  {
+    "title": "Wilderness Falls",
+    "date": "March 23, 1993",
+    "guest": null
+  },
+  {
+    "title": "Winter at the Farm",
+    "date": "March 30, 1993",
+    "guest": null
+  },
+  {
+    "title": "Daisies at Dawn",
+    "date": "April 6, 1993",
+    "guest": null
+  },
+  {
+    "title": "A Spectacular View",
+    "date": "April 13, 1993",
+    "guest": null
+  },
+  {
+    "title": "Daybreak",
+    "date": "April 20, 1993",
+    "guest": null
+  },
+  {
+    "title": "Island Paradise",
+    "date": "April 27, 1993",
+    "guest": null
+  },
+  {
+    "title": "Sunlight in the Shadows",
+    "date": "May 4, 1993",
+    "guest": null
+  },
+  {
+    "title": "Splendor of a Snowy Winter",
+    "date": "May 11, 1993",
+    "guest": null
+  },
+  {
+    "title": "Forest River",
+    "date": "May 18, 1993",
+    "guest": null
+  },
+  {
+    "title": "Golden Glow of Morning",
+    "date": "May 20, 1993",
+    "guest": null
+  },
+  {
+    "title": "Fisherman's Trail",
+    "date": "May 25, 1993",
+    "guest": null
+  },
+  {
+    "title": "A Warm Winter",
+    "date": "June 1, 1993",
+    "guest": null
+  },
+  {
+    "title": "Under Pastel Skies",
+    "date": "June 8, 1993",
+    "guest": null
+  },
+  {
+    "title": "Golden Rays of Sunlight",
+    "date": "June 15, 1993",
+    "guest": null
+  },
+  {
+    "title": "The Magic of Fall",
+    "date": "June 22, 1993",
+    "guest": null
+  },
+  {
+    "title": "Glacier Lake",
+    "date": "June 29, 1993",
+    "guest": null
+  },
+  {
+    "title": "The Old Weathered Barn",
+    "date": "July 6, 1993",
+    "guest": null
+  },
+  {
+    "title": "Deep Forest Falls",
+    "date": "July 13, 1993",
+    "guest": null
+  },
+  {
+    "title": "Winter's Grace",
+    "date": "July 20, 1993",
+    "guest": null
+  },
+  {
+    "title": "Splendor of Autumn",
+    "date": "July 27, 1993",
+    "guest": null
+  },
+  {
+    "title": "Tranquil Seas",
+    "date": "August 3, 1993",
+    "guest": null
+  },
+  {
+    "title": "Mountain Serenity",
+    "date": "August 10, 1993",
+    "guest": null
+  },
+  {
+    "title": "Home Before Nightfall",
+    "date": "August 17, 1993",
+    "guest": null
+  },
+  {
+    "title": "Island in the Wilderness",
+    "date": "August 24, 1993",
+    "guest": null
+  },
+  {
+    "title": "Autumn Oval",
+    "date": "August 31, 1993",
+    "guest": null
+  },
+  {
+    "title": "Seasonal Progression",
+    "date": "September 7, 1993",
+    "guest": null
+  },
+  {
+    "title": "Light at the Summit",
+    "date": "September 14, 1993",
+    "guest": null
+  },
+  {
+    "title": "Countryside Barn",
+    "date": "September 21, 1993",
+    "guest": null
+  },
+  {
+    "title": "Mountain Lake Falls",
+    "date": "September 28, 1993",
+    "guest": "Steve Ross (Bob's son)"
+  },
+  {
+    "title": "Cypress Creek",
+    "date": "October 5, 1993",
+    "guest": null
+  },
+  {
+    "title": "Trapper's Cabin",
+    "date": "October 12, 1993",
+    "guest": null
+  },
+  {
+    "title": "Storm on the Horizon",
+    "date": "October 19, 1993",
+    "guest": null
+  },
+  {
+    "title": "Pot O' Posies",
+    "date": "October 26, 1993",
+    "guest": null
+  },
+  {
+    "title": "A Perfect Winter Day",
+    "date": "November 2, 1993",
+    "guest": null
+  },
+  {
+    "title": "Aurora's Dance",
+    "date": "November 9, 1993",
+    "guest": null
+  },
+  {
+    "title": "Woodsman's Retreat",
+    "date": "November 16, 1993",
+    "guest": null
+  },
+  {
+    "title": "Babbling Brook",
+    "date": "November 23, 1993",
+    "guest": null
+  },
+  {
+    "title": "Woodgrain View",
+    "date": "November 30, 1993",
+    "guest": null
+  },
+  {
+    "title": "Winter's Peace",
+    "date": "December 7, 1993",
+    "guest": null
+  },
+  {
+    "title": "Wilderness Trail",
+    "date": "December 14, 1993",
+    "guest": null
+  },
+  {
+    "title": "A Copper Winter",
+    "date": "December 21, 1993",
+    "guest": null
+  },
+  {
+    "title": "Misty Foothills",
+    "date": "December 28, 1993",
+    "guest": null
+  },
+  {
+    "title": "Through the Window",
+    "date": "January 4, 1994",
+    "guest": null
+  },
+  {
+    "title": "Home in the Valley",
+    "date": "January 11, 1994",
+    "guest": null
+  },
+  {
+    "title": "Mountains of Grace",
+    "date": "January 18, 1994",
+    "guest": "Steve Ross"
+  },
+  {
+    "title": "Seaside Harmony",
+    "date": "January 25, 1994",
+    "guest": null
+  },
+  {
+    "title": "A Cold Spring Day",
+    "date": "February 1, 1994",
+    "guest": null
+  },
+  {
+    "title": "Evening's Glow",
+    "date": "February 8, 1994",
+    "guest": null
+  },
+  {
+    "title": "Blue Ridge Falls",
+    "date": "February 15, 1994",
+    "guest": null
+  },
+  {
+    "title": "Reflections of Calm",
+    "date": "February 22, 1994",
+    "guest": null
+  },
+  {
+    "title": "Before the Snowfall",
+    "date": "March 1, 1994",
+    "guest": null
+  },
+  {
+    "title": "Winding Stream",
+    "date": "March 8, 1994",
+    "guest": null
+  },
+  {
+    "title": "Tranquility Cove",
+    "date": "March 15, 1994",
+    "guest": null
+  },
+  {
+    "title": "Cabin in the Hollow",
+    "date": "March 22, 1994",
+    "guest": null
+  },
+  {
+    "title": "View From Clear Creek",
+    "date": "March 29, 1994",
+    "guest": null
+  },
+  {
+    "title": "Bridge to Autumn",
+    "date": "April 5, 1994",
+    "guest": null
+  },
+  {
+    "title": "Trail's End",
+    "date": "April 12, 1994",
+    "guest": null
+  },
+  {
+    "title": "Evergreen Valley",
+    "date": "April 19, 1994",
+    "guest": null
+  },
+  {
+    "title": "Balmy Beach",
+    "date": "April 26, 1994",
+    "guest": null
+  },
+  {
+    "title": "Lake at the Ridge",
+    "date": "May 3, 1994",
+    "guest": "Steve Ross"
+  },
+  {
+    "title": "In the Midst of Winter",
+    "date": "May 10, 1994",
+    "guest": null
+  },
+  {
+    "title": "Wilderness Day",
+    "date": "May 17, 1994",
+    "guest": null
+  }
+]
