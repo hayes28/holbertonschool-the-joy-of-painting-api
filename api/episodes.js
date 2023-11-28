@@ -18,8 +18,9 @@ fs.readFile(inputFile, "utf8", (err, data) => {
 
   const episodes = lines.map((line) => {
     const titleMatch = line.match(/"([^"]+)" \(([^)]+)\)/);
-    const title = titleMatch ? titleMatch[1].trim() : null;
-    const date = titleMatch ? titleMatch[2].trim() : null;
+    const title = titleMatch ? titleMatch[1].trim().toLowerCase() : null;
+    let date = titleMatch ? new Date(titleMatch[2].trim()) : null;
+    date = date ? date.toISOString().split("T")[0] : null;
 
     let guest = null;
     if (title && date) {
