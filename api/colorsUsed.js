@@ -1,25 +1,49 @@
 const fs = require("fs");
+const csv = require("csv-parser");
 
-const colorsFilePath =
-  "/home/hayes/holbertonschool-the-joy-of-painting-api/data_list/The_Joy_Of_Painting_Colors.json";
+const colorsUsedFilePath =
+  "/home/hayes/holbertonschool-the-joy-of-painting-api/data_list/The Joy Of Painiting - Colors Used";
+const outputFilePath =
+  "/home/hayes/holbertonschool-the-joy-of-painting-api/data_list/Unique_Colors.json";
 
-function parseColors(colorArray) {
-  return colorArray.map((color) =>
-    color
-      .replace(/[\[\]'\\]/g, "") // Remove brackets, quotes, and backslashes
-      .trim()
-      .toLowerCase()
-  );
-}
+const uniqueColors = new Map();
 
-// Read the colors data from the updated JSON file
-let colorsData = JSON.parse(fs.readFileSync(colorsFilePath, "utf8"));
+fs.createReadStream(colorsUsedFilePath)
+  .pipe(csv())
+  .on("data", (row) => {
+    // Extract color names and hex codes
+    const colorNames = row.colors
+      .match(/'([^']+)'/g)
+      .map((str) => str.replace(/'/g, ""));
+    const hexCodes = row.color_hex
+      .match(/'([^']+)'/g)
+      .map((str) => str.replace(/'/g, ""));
 
-// Process each entry to fix the colors formatting
-colorsData.forEach((entry) => {
-  entry.colors = parseColors(entry.colors);
-});
+    // Add unique colors to the map
+    colorNames.forEach((color, index) => {
+      if (!uniqueColors.has(color.toLowerCase())) {
+        uniqueColors.set(color.toLowerCase(), hexCodes[index].toLowerCase());
+      }
+    });
+  })
+  .on("end", () => {
+    // Convert the map to an array of objects
+    const colorsData = Array.from(uniqueColors, ([color_name, hex_code]) => ({
+      color_name,
+      hex_code,
+    }));
 
-// Write the updated data back to the JSON file
-fs.writeFileSync(colorsFilePath, JSON.stringify(colorsData, null, 2), "utf8");
-console.log("Updated colors data saved.");
+    // Write the array to a JSON file
+    fs.writeFile(
+      outputFilePath,
+      JSON.stringify(colorsData, null, 2),
+      "utf8",
+      (err) => {
+        if (err) {
+          console.error("Error writing file:", err);
+          return;
+        }
+        console.log("Unique colors JSON file has been saved");
+      }
+    );
+  });
