@@ -1,0 +1,5235 @@
+[
+  {
+    "episode": "S01E01",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S01E02",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "mountain",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S01E03",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "fence",
+      "mountain",
+      "mountains",
+      "structure",
+      "sun",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S01E04",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S01E05",
+    "subjects": [
+      "deciduous",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S01E06",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "lake",
+      "moon",
+      "mountain",
+      "mountains",
+      "night",
+      "snow",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S01E07",
+    "subjects": [
+      "deciduous",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S01E08",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S01E09",
+    "subjects": [
+      "beach",
+      "clouds",
+      "fence",
+      "ocean"
+    ]
+  },
+  {
+    "episode": "S01E10",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "deciduous",
+      "lake",
+      "mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S01E11",
+    "subjects": [
+      "deciduous",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S01E12",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S01E13",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "deciduous",
+      "grass",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S02E01",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S02E02",
+    "subjects": [
+      "conifer",
+      "lake",
+      "snow",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S02E03",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "ocean",
+      "sun",
+      "tree",
+      "trees",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S02E04",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "lake",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S02E05",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "grass",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S02E06",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S02E07",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "grass",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S02E08",
+    "subjects": [
+      "bushes",
+      "cirrus",
+      "clouds",
+      "conifer",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S02E09",
+    "subjects": [
+      "cirrus",
+      "cumulus",
+      "deciduous",
+      "ocean",
+      "rocks",
+      "sun",
+      "tree",
+      "trees",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S02E10",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S02E11",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "river",
+      "rocks",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S02E12",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S02E13",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S03E01",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "conifer",
+      "deciduous",
+      "lake",
+      "mountain",
+      "mountains",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S03E02",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "moon",
+      "night",
+      "ocean",
+      "palm_trees",
+      "tree",
+      "trees",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S03E03",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S03E04",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S03E05",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "hills",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S03E06",
+    "subjects": [
+      "bridge",
+      "deciduous",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S03E07",
+    "subjects": [
+      "deciduous",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S03E08",
+    "subjects": [
+      "cliff",
+      "clouds",
+      "cumulus",
+      "lighthouse",
+      "night",
+      "ocean",
+      "structure",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S03E09",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "mill",
+      "river",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S03E10",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "fire",
+      "lake",
+      "person",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S03E11",
+    "subjects": [
+      "barn",
+      "deciduous",
+      "fence",
+      "lake",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S03E12",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "deciduous",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S03E13",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "guest",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "steve_ross",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S04E01",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "lake",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S04E02",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S04E03",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "grass",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S04E04",
+    "subjects": [
+      "cabin",
+      "circle_frame",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "framed",
+      "guest",
+      "lake",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S04E05",
+    "subjects": [
+      "beach",
+      "cliff",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "ocean",
+      "rocks",
+      "tree",
+      "trees",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S04E06",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S04E07",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "grass",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S04E08",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "grass",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S04E09",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S04E10",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S04E11",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "diane_andre",
+      "guest",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S04E12",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "hills",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S04E13",
+    "subjects": [
+      "conifer",
+      "grass",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S05E01",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S05E02",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S05E03",
+    "subjects": [
+      "conifer",
+      "flowers",
+      "guest",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S05E04",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "lake",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S05E05",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S05E06",
+    "subjects": [
+      "clouds",
+      "grass",
+      "guest",
+      "ocean",
+      "sun"
+    ]
+  },
+  {
+    "episode": "S05E07",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S05E08",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S05E09",
+    "subjects": [
+      "guest",
+      "ocean",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S05E10",
+    "subjects": [
+      "barn",
+      "clouds",
+      "deciduous",
+      "path",
+      "structure",
+      "tree",
+      "windmill"
+    ]
+  },
+  {
+    "episode": "S05E11",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "lake",
+      "mountain",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S05E12",
+    "subjects": [
+      "guest",
+      "portrait"
+    ]
+  },
+  {
+    "episode": "S05E13",
+    "subjects": [
+      "barn",
+      "clouds",
+      "deciduous",
+      "grass",
+      "river",
+      "rocks",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S06E01",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "deciduous",
+      "grass",
+      "hills",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S06E02",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "clouds",
+      "deciduous",
+      "fog",
+      "grass",
+      "lake",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S06E03",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "fog",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S06E04",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S06E05",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S06E06",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "grass",
+      "snow",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S06E07",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "conifer",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S06E08",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S06E09",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "grass",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S06E10",
+    "subjects": [
+      "barn",
+      "cirrus",
+      "clouds",
+      "fence",
+      "grass"
+    ]
+  },
+  {
+    "episode": "S06E11",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "deciduous",
+      "mountain",
+      "mountains",
+      "river",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S06E12",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "deciduous",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S06E13",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "deciduous",
+      "grass",
+      "hills",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S07E01",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "deciduous",
+      "snow",
+      "structure",
+      "tree",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S07E02",
+    "subjects": [
+      "clouds",
+      "deciduous",
+      "grass",
+      "lake",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S07E03",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "river",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S07E04",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S07E05",
+    "subjects": [
+      "guest",
+      "portrait"
+    ]
+  },
+  {
+    "episode": "S07E06",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "lake",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S07E07",
+    "subjects": [
+      "barn",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "path",
+      "snow",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S07E08",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "mountain",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S07E09",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "guest",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "steve_ross",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S07E10",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "grass",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S07E11",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "lake",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S07E12",
+    "subjects": [
+      "boat",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "dock",
+      "lake",
+      "structure",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S07E13",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S08E01",
+    "subjects": [
+      "conifer",
+      "fog",
+      "grass",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S08E02",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "circle_frame",
+      "clouds",
+      "deciduous",
+      "framed",
+      "grass",
+      "lake",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S08E03",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "grass",
+      "snow",
+      "structure",
+      "sun",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S08E04",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "grass",
+      "lake",
+      "path",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S08E05",
+    "subjects": [
+      "cabin",
+      "cirrus",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "path",
+      "river",
+      "rocks",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S08E06",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S08E07",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "fence",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S08E08",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S08E09",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "framed",
+      "rectangular_frame",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S08E10",
+    "subjects": [
+      "cactus",
+      "clouds",
+      "path",
+      "rocks"
+    ]
+  },
+  {
+    "episode": "S08E11",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "guest",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "steve_ross",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S08E12",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "snow",
+      "structure",
+      "tree",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S08E13",
+    "subjects": [
+      "aurora_borealis",
+      "cabin",
+      "conifer",
+      "deciduous",
+      "lake",
+      "mountain",
+      "night",
+      "snow",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S09E01",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "conifer",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "sun",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S09E02",
+    "subjects": [
+      "beach",
+      "cliff",
+      "clouds",
+      "cumulus",
+      "ocean",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S09E03",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S09E04",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "mountain",
+      "mountains",
+      "path",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S09E05",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "conifer",
+      "fog",
+      "framed",
+      "mountain",
+      "oval_frame",
+      "river",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S09E06",
+    "subjects": [
+      "beach",
+      "clouds",
+      "cumulus",
+      "ocean",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S09E07",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "deciduous",
+      "mountain",
+      "mountains",
+      "river",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S09E08",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "fence",
+      "mountain",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S09E09",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "mountain",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S09E10",
+    "subjects": []
+  },
+  {
+    "episode": "S09E11",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S09E12",
+    "subjects": [
+      "beach",
+      "bushes",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "mountain",
+      "ocean",
+      "snowy_mountain",
+      "tree",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S09E13",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S10E01",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "hills",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S10E02",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "fence",
+      "grass",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S10E03",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "deciduous",
+      "grass",
+      "hills",
+      "river",
+      "rocks",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S10E04",
+    "subjects": [
+      "bridge",
+      "deciduous",
+      "river",
+      "rocks",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S10E05",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "ocean",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S10E06",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S10E07",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S10E08",
+    "subjects": [
+      "deciduous",
+      "lake",
+      "snow",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S10E09",
+    "subjects": [
+      "bushes",
+      "cirrus",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "framed",
+      "guest",
+      "lake",
+      "mountain",
+      "mountains",
+      "oval_frame",
+      "snowy_mountain",
+      "steve_ross",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S10E10",
+    "subjects": [
+      "beach",
+      "clouds",
+      "ocean",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S10E11",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "framed",
+      "grass",
+      "mountain",
+      "mountains",
+      "path",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees",
+      "triple_frame"
+    ]
+  },
+  {
+    "episode": "S10E12",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "deciduous",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "sun",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S10E13",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "lake",
+      "path",
+      "rocks",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S11E01",
+    "subjects": [
+      "conifer",
+      "grass",
+      "mountain",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S11E02",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S11E03",
+    "subjects": [
+      "conifer",
+      "fence",
+      "flowers",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S11E04",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "deciduous",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S11E05",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "grass",
+      "mountain",
+      "river",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S11E06",
+    "subjects": [
+      "barn",
+      "bushes",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "framed",
+      "oval_frame",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S11E07",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "lake",
+      "path",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S11E08",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "framed",
+      "lake",
+      "mountain",
+      "oval_frame",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S11E09",
+    "subjects": [
+      "barn",
+      "cirrus",
+      "clouds",
+      "deciduous",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S11E10",
+    "subjects": [
+      "beach",
+      "clouds",
+      "ocean",
+      "rocks",
+      "sun",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S11E11",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "lake",
+      "snow",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S11E12",
+    "subjects": [
+      "barn",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "fence",
+      "lake",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S11E13",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "grass",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S12E01",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "fog",
+      "grass",
+      "structure",
+      "sun",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S12E02",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "mountain",
+      "mountains",
+      "river",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S12E03",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "lake",
+      "mountain",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S12E04",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "path",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S12E05",
+    "subjects": [
+      "beach",
+      "clouds",
+      "cumulus",
+      "night",
+      "ocean",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S12E06",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "cirrus",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "grass",
+      "lake",
+      "mountain",
+      "mountains",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S12E07",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "mountain",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S12E08",
+    "subjects": [
+      "conifer",
+      "grass",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S12E09",
+    "subjects": [
+      "beach",
+      "cirrus",
+      "clouds",
+      "ocean",
+      "palm_trees",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S12E10",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "grass",
+      "mountain",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S12E11",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "grass",
+      "mountain",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S12E12",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "framed",
+      "grass",
+      "mountain",
+      "mountains",
+      "oval_frame",
+      "river",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S12E13",
+    "subjects": [
+      "conifer",
+      "mountain",
+      "mountains",
+      "river",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S13E01",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "grass",
+      "hills",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S13E02",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "clouds",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S13E03",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "deciduous",
+      "framed",
+      "grass",
+      "mountain",
+      "oval_frame",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S13E04",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "cirrus",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "river",
+      "rocks",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S13E05",
+    "subjects": [
+      "clouds",
+      "deciduous",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S13E06",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S13E07",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "path",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S13E08",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S13E09",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S13E10",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "mountain",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S13E11",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "lake",
+      "mountain",
+      "mountains",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S13E12",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "framed",
+      "night",
+      "ocean",
+      "oval_frame",
+      "rocks",
+      "tree",
+      "trees",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S13E13",
+    "subjects": [
+      "conifer",
+      "grass",
+      "lake",
+      "mountain",
+      "mountains",
+      "path",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S14E01",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "lake",
+      "mountain",
+      "mountains",
+      "path",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S14E02",
+    "subjects": [
+      "conifer",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S14E03",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "framed",
+      "grass",
+      "mountain",
+      "mountains",
+      "night",
+      "oval_frame",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S14E04",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "deciduous",
+      "fence",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S14E05",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "fog",
+      "framed",
+      "mountain",
+      "mountains",
+      "river",
+      "rocks",
+      "tomb_frame",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S14E06",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S14E07",
+    "subjects": [
+      "beach",
+      "clouds",
+      "cumulus",
+      "grass",
+      "ocean",
+      "palm_trees",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S14E08",
+    "subjects": [
+      "conifer",
+      "mountain",
+      "river",
+      "snow",
+      "snowy_mountain",
+      "sun",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S14E09",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "framed",
+      "oval_frame",
+      "path",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S14E10",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "deciduous",
+      "guest",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "steve_ross",
+      "tree",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S14E11",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S14E12",
+    "subjects": [
+      "clouds",
+      "deciduous",
+      "fog",
+      "framed",
+      "grass",
+      "oval_frame",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S14E13",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S15E01",
+    "subjects": [
+      "bushes",
+      "cirrus",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "snow",
+      "sun",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S15E02",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S15E03",
+    "subjects": [
+      "barn",
+      "deciduous",
+      "fence",
+      "grass",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S15E04",
+    "subjects": []
+  },
+  {
+    "episode": "S15E05",
+    "subjects": [
+      "cabin",
+      "cirrus",
+      "clouds",
+      "conifer",
+      "framed",
+      "lake",
+      "mountain",
+      "mountains",
+      "oval_frame",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S15E06",
+    "subjects": [
+      "beach",
+      "clouds",
+      "cumulus",
+      "ocean",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S15E07",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "grass",
+      "lake",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S15E08",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S15E09",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S15E10",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "framed",
+      "grass",
+      "oval_frame",
+      "path",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S15E11",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "grass",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S15E12",
+    "subjects": [
+      "deciduous",
+      "lake",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S15E13",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "conifer",
+      "grass",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S16E01",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "fog",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S16E02",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "grass",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S16E03",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S16E04",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "fog",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S16E05",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "double_oval_frame",
+      "framed",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S16E06",
+    "subjects": [
+      "guest",
+      "portrait"
+    ]
+  },
+  {
+    "episode": "S16E07",
+    "subjects": [
+      "conifer",
+      "river",
+      "rocks",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S16E08",
+    "subjects": [
+      "beach",
+      "clouds",
+      "ocean",
+      "palm_trees",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S16E09",
+    "subjects": [
+      "barn",
+      "conifer",
+      "fence",
+      "framed",
+      "oval_frame",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S16E10",
+    "subjects": [
+      "clouds",
+      "deciduous",
+      "guest",
+      "hills",
+      "lake",
+      "steve_ross",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S16E11",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "river",
+      "rocks",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S16E12",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "flowers",
+      "grass",
+      "lake",
+      "mountain",
+      "snowy_mountain"
+    ]
+  },
+  {
+    "episode": "S16E13",
+    "subjects": [
+      "deciduous",
+      "framed",
+      "oval_frame",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S17E01",
+    "subjects": [
+      "conifer",
+      "fog",
+      "framed",
+      "oval_frame",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S17E02",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "fence",
+      "grass",
+      "path",
+      "structure",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S17E03",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S17E04",
+    "subjects": [
+      "beach",
+      "clouds",
+      "cumulus",
+      "ocean",
+      "rocks",
+      "sun",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S17E05",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "flowers",
+      "framed",
+      "lake",
+      "oval_frame",
+      "structure",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S17E06",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "deciduous",
+      "river",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S17E07",
+    "subjects": [
+      "conifer",
+      "mountain",
+      "mountains",
+      "river",
+      "rocks",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S17E08",
+    "subjects": [
+      "apple_frame",
+      "bridge",
+      "building",
+      "deciduous",
+      "framed",
+      "lake",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S17E09",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "flowers",
+      "grass",
+      "guest",
+      "hills",
+      "lake",
+      "steve_ross",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S17E10",
+    "subjects": [
+      "deciduous",
+      "mill",
+      "river",
+      "rocks",
+      "structure",
+      "tree",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S17E11",
+    "subjects": [
+      "deciduous",
+      "fog",
+      "path",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S17E12",
+    "subjects": [
+      "conifer",
+      "grass",
+      "mountain",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S17E13",
+    "subjects": [
+      "cumulus",
+      "flowers",
+      "grass",
+      "guest",
+      "hills",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S18E01",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "framed",
+      "half_oval_frame",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S18E02",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S18E03",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "mountain",
+      "mountains",
+      "river",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S18E04",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S18E05",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S18E06",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S18E07",
+    "subjects": [
+      "deciduous",
+      "fog",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S18E08",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "framed",
+      "half_circle_frame",
+      "lake",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S18E09",
+    "subjects": [
+      "beach",
+      "cirrus",
+      "clouds",
+      "ocean",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S18E10",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "framed",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S18E11",
+    "subjects": [
+      "deciduous",
+      "path",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S18E12",
+    "subjects": [
+      "cactus",
+      "cirrus",
+      "clouds",
+      "mountain",
+      "mountains",
+      "path"
+    ]
+  },
+  {
+    "episode": "S18E13",
+    "subjects": [
+      "deciduous",
+      "river",
+      "rocks",
+      "sun",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S19E01",
+    "subjects": [
+      "deciduous",
+      "river",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S19E02",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "lake",
+      "mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S19E03",
+    "subjects": [
+      "deciduous",
+      "framed",
+      "oval_frame",
+      "river",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S19E04",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S19E05",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "grass",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S19E06",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "rocks",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S19E07",
+    "subjects": [
+      "bridge",
+      "conifer",
+      "fence",
+      "framed",
+      "oval_frame",
+      "river",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S19E08",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "deciduous",
+      "grass",
+      "mountain",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S19E09",
+    "subjects": [
+      "beach",
+      "clouds",
+      "cumulus",
+      "ocean",
+      "rocks",
+      "sun",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S19E10",
+    "subjects": [
+      "deciduous",
+      "path",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S19E11",
+    "subjects": [
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "lake",
+      "rocks",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S19E12",
+    "subjects": [
+      "barn",
+      "conifer",
+      "deciduous",
+      "fence",
+      "moon",
+      "night",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S19E13",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S20E01",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S20E02",
+    "subjects": [
+      "barn",
+      "conifer",
+      "fence",
+      "grass",
+      "path",
+      "structure",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S20E03",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S20E04",
+    "subjects": [
+      "deciduous",
+      "fog",
+      "framed",
+      "oval_frame",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S20E05",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "lake",
+      "mountain",
+      "mountains",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S20E06",
+    "subjects": [
+      "beach",
+      "cliff",
+      "clouds",
+      "ocean",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S20E07",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "conifer",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S20E08",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S20E09",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "mountain",
+      "river",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S20E10",
+    "subjects": [
+      "bridge",
+      "bushes",
+      "cabin",
+      "conifer",
+      "deciduous",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S20E11",
+    "subjects": [
+      "deciduous",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S20E12",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "path",
+      "river",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S20E13",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "fog",
+      "lake",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S21E01",
+    "subjects": [
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S21E02",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "fog",
+      "river",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S21E03",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "mountain",
+      "mountains",
+      "river",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S21E04",
+    "subjects": [
+      "deciduous",
+      "flowers",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S21E05",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "framed",
+      "oval_frame",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S21E06",
+    "subjects": [
+      "conifer",
+      "lake",
+      "mountain",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S21E07",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "lake",
+      "rocks",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S21E08",
+    "subjects": [
+      "beach",
+      "cliff",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "ocean",
+      "rocks",
+      "sun",
+      "tree",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S21E09",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S21E10",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "mountain",
+      "mountains",
+      "river",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S21E11",
+    "subjects": [
+      "cactus",
+      "clouds",
+      "framed",
+      "mountain",
+      "oval_frame",
+      "path"
+    ]
+  },
+  {
+    "episode": "S21E12",
+    "subjects": [
+      "conifer",
+      "grass",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S21E13",
+    "subjects": [
+      "beach",
+      "florida_frame",
+      "ocean",
+      "palm_trees",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S22E01",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "cumulus",
+      "deciduous",
+      "flowers",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S22E02",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S22E03",
+    "subjects": [
+      "conifer",
+      "flowers",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S22E04",
+    "subjects": [
+      "clouds",
+      "deciduous",
+      "framed",
+      "grass",
+      "hills",
+      "oval_frame",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S22E05",
+    "subjects": [
+      "barn",
+      "deciduous",
+      "snow",
+      "structure",
+      "tree",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S22E06",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S22E07",
+    "subjects": [
+      "conifer",
+      "framed",
+      "mountain",
+      "mountains",
+      "rectangle_3d_frame",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S22E08",
+    "subjects": [
+      "cabin",
+      "cliff",
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S22E09",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "framed",
+      "lake",
+      "mountain",
+      "mountains",
+      "oval_frame",
+      "path",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S22E10",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "mountain",
+      "mountains",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S22E11",
+    "subjects": [
+      "beach",
+      "clouds",
+      "framed",
+      "ocean",
+      "oval_frame",
+      "sun",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S22E12",
+    "subjects": [
+      "conifer",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S22E13",
+    "subjects": [
+      "conifer",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S23E01",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "fence",
+      "hills",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S23E02",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "grass",
+      "path",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S23E03",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "grass",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S23E04",
+    "subjects": [
+      "clouds",
+      "deciduous",
+      "framed",
+      "oval_frame",
+      "river",
+      "snow",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S23E05",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "deciduous",
+      "hills",
+      "lake",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S23E06",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S23E07",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "deciduous",
+      "lake",
+      "path",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S23E08",
+    "subjects": [
+      "conifer",
+      "grass",
+      "mountain",
+      "river",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S23E09",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "deciduous",
+      "framed",
+      "grass",
+      "oval_frame",
+      "river",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S23E10",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "grass",
+      "mountain",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S23E11",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "lake",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S23E12",
+    "subjects": [
+      "beach",
+      "cliff",
+      "clouds",
+      "ocean",
+      "rocks",
+      "sun",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S23E13",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "framed",
+      "lake",
+      "mountain",
+      "mountains",
+      "oval_frame",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S24E01",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "mountain",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S24E02",
+    "subjects": [
+      "deciduous",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S24E03",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "mountain",
+      "snow",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S24E04",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "framed",
+      "grass",
+      "oval_frame",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S24E05",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "deciduous",
+      "grass",
+      "mountain",
+      "river",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S24E06",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S24E07",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "path",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S24E08",
+    "subjects": [
+      "cliff",
+      "deciduous",
+      "river",
+      "rocks",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S24E09",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "framed",
+      "guest",
+      "lake",
+      "oval_frame",
+      "snow",
+      "steve_ross",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S24E10",
+    "subjects": [
+      "beach",
+      "boat",
+      "clouds",
+      "framed",
+      "grass",
+      "hills",
+      "ocean",
+      "oval_frame",
+      "sun",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S24E11",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S24E12",
+    "subjects": [
+      "bridge",
+      "conifer",
+      "deciduous",
+      "grass",
+      "river",
+      "rocks",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S24E13",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "fence",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S25E01",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S25E02",
+    "subjects": [
+      "deciduous",
+      "framed",
+      "oval_frame",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S25E03",
+    "subjects": [
+      "conifer",
+      "lake",
+      "mountain",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S25E04",
+    "subjects": [
+      "deciduous",
+      "lake",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S25E05",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "guest",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "steve_ross",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S25E06",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "fog",
+      "rocks",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S25E07",
+    "subjects": [
+      "deciduous",
+      "fence",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S25E08",
+    "subjects": [
+      "deciduous",
+      "lake",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S25E09",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "deciduous",
+      "grass",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S25E10",
+    "subjects": [
+      "clouds",
+      "framed",
+      "ocean",
+      "oval_frame",
+      "palm_trees",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S25E11",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "lake",
+      "structure",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S25E12",
+    "subjects": [
+      "cactus",
+      "cirrus",
+      "clouds",
+      "mountain",
+      "path"
+    ]
+  },
+  {
+    "episode": "S25E13",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "fence",
+      "snow",
+      "tree",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S26E01",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "fog",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S26E02",
+    "subjects": [
+      "cabin",
+      "deciduous",
+      "fence",
+      "grass",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S26E03",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "grass",
+      "mountain",
+      "snow",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S26E04",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "grass",
+      "lake",
+      "mountain",
+      "path",
+      "snowy_mountain",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S26E05",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "deciduous",
+      "flowers",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S26E06",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S26E07",
+    "subjects": [
+      "deciduous",
+      "lake",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S26E08",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "framed",
+      "grass",
+      "lake",
+      "mountain",
+      "oval_frame",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S26E09",
+    "subjects": [
+      "deciduous",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S26E10",
+    "subjects": []
+  },
+  {
+    "episode": "S26E11",
+    "subjects": [
+      "beach",
+      "clouds",
+      "cumulus",
+      "hills",
+      "ocean",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S26E12",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "lake",
+      "mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S26E13",
+    "subjects": [
+      "conifer",
+      "night",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S27E01",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "fog",
+      "framed",
+      "lake",
+      "oval_frame",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S27E02",
+    "subjects": [
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S27E03",
+    "subjects": [
+      "deciduous",
+      "snow",
+      "sun",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S27E04",
+    "subjects": [
+      "bushes",
+      "clouds",
+      "conifer",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "rocks",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S27E05",
+    "subjects": [
+      "conifer",
+      "farm",
+      "fence",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S27E06",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "flowers",
+      "framed",
+      "lake",
+      "oval_frame",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S27E07",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "mountain",
+      "mountains",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S27E08",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "fence",
+      "fog",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S27E09",
+    "subjects": [
+      "beach",
+      "clouds",
+      "framed",
+      "hills",
+      "ocean",
+      "oval_frame",
+      "palm_trees",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S27E10",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "grass",
+      "guest",
+      "river",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S27E11",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "mountain",
+      "snow",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S27E12",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S27E13",
+    "subjects": [
+      "conifer",
+      "fog",
+      "lake",
+      "rocks",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S28E01",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "path",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S28E02",
+    "subjects": [
+      "barn",
+      "conifer",
+      "deciduous",
+      "hills",
+      "snow",
+      "structure",
+      "sun",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S28E03",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S28E04",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S28E05",
+    "subjects": [
+      "deciduous",
+      "fence",
+      "grass",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S28E06",
+    "subjects": [
+      "conifer",
+      "grass",
+      "lake",
+      "mountain",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S28E07",
+    "subjects": [
+      "barn",
+      "deciduous",
+      "grass",
+      "path",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S28E08",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "river",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S28E09",
+    "subjects": [
+      "conifer",
+      "fog",
+      "mountain",
+      "mountains",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S28E10",
+    "subjects": [
+      "deciduous",
+      "fog",
+      "grass",
+      "lake",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S28E11",
+    "subjects": [
+      "beach",
+      "clouds",
+      "cumulus",
+      "ocean",
+      "sun",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S28E12",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "grass",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S28E13",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "deciduous",
+      "grass",
+      "night",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S29E01",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S29E02",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "framed",
+      "lake",
+      "mountains",
+      "oval_frame",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S29E03",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "framed",
+      "grass",
+      "lake",
+      "mountain",
+      "mountains",
+      "snow",
+      "snowy_mountain",
+      "split_frame",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S29E04",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "mountain",
+      "mountains",
+      "path",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S29E05",
+    "subjects": [
+      "barn",
+      "deciduous",
+      "grass",
+      "path",
+      "structure",
+      "tree"
+    ]
+  },
+  {
+    "episode": "S29E06",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "lake",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S29E07",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S29E08",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "conifer",
+      "deciduous",
+      "lake",
+      "mountain",
+      "mountains",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S29E09",
+    "subjects": [
+      "beach",
+      "clouds",
+      "grass",
+      "ocean",
+      "palm_trees",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S29E10",
+    "subjects": [
+      "flowers",
+      "guest"
+    ]
+  },
+  {
+    "episode": "S29E11",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "clouds",
+      "conifer",
+      "mountain",
+      "snow",
+      "snowy_mountain",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S29E12",
+    "subjects": [
+      "aurora_borealis",
+      "cabin",
+      "conifer",
+      "lake",
+      "night",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S29E13",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S30E01",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "grass",
+      "river",
+      "tree",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S30E02",
+    "subjects": [
+      "deciduous",
+      "framed",
+      "grass",
+      "lake",
+      "mountain",
+      "snowy_mountain",
+      "tree",
+      "wood_framed"
+    ]
+  },
+  {
+    "episode": "S30E03",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "lake",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S30E04",
+    "subjects": [
+      "bushes",
+      "deciduous",
+      "path",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S30E05",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "lake",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S30E06",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "cumulus",
+      "hills",
+      "lake",
+      "mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S30E07",
+    "subjects": [
+      "conifer",
+      "deciduous",
+      "framed",
+      "snow",
+      "tree",
+      "trees",
+      "window_frame",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S30E08",
+    "subjects": [
+      "cabin",
+      "clouds",
+      "conifer",
+      "cumulus",
+      "grass",
+      "lake",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S30E09",
+    "subjects": [
+      "cirrus",
+      "clouds",
+      "conifer",
+      "deciduous",
+      "guest",
+      "mountain",
+      "mountains",
+      "river",
+      "snowy_mountain",
+      "steve_ross",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S30E10",
+    "subjects": [
+      "beach",
+      "clouds",
+      "ocean",
+      "rocks",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S30E11",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S30E12",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "deciduous",
+      "grass",
+      "path",
+      "sun",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S30E13",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "mountain",
+      "river",
+      "rocks",
+      "tree",
+      "trees",
+      "waterfall"
+    ]
+  },
+  {
+    "episode": "S31E01",
+    "subjects": [
+      "conifer",
+      "lake",
+      "mountain",
+      "mountains",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S31E02",
+    "subjects": [
+      "bushes",
+      "cabin",
+      "clouds",
+      "conifer",
+      "river",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S31E03",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "grass",
+      "river",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S31E04",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "lake",
+      "rocks",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S31E05",
+    "subjects": [
+      "cabin",
+      "conifer",
+      "framed",
+      "oval_frame",
+      "river",
+      "snow",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S31E06",
+    "subjects": [
+      "bushes",
+      "conifer",
+      "grass",
+      "mountain",
+      "mountains",
+      "river",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S31E07",
+    "subjects": [
+      "bridge",
+      "deciduous",
+      "lake",
+      "path",
+      "structure",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S31E08",
+    "subjects": [
+      "clouds",
+      "deciduous",
+      "path",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S31E09",
+    "subjects": [
+      "conifer",
+      "grass",
+      "mountain",
+      "mountains",
+      "rocks",
+      "snowy_mountain",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S31E10",
+    "subjects": [
+      "beach",
+      "framed",
+      "ocean",
+      "palm_trees",
+      "rocks",
+      "seashell_frame",
+      "waves"
+    ]
+  },
+  {
+    "episode": "S31E11",
+    "subjects": [
+      "clouds",
+      "conifer",
+      "deciduous",
+      "grass",
+      "guest",
+      "lake",
+      "mountain",
+      "mountains",
+      "snowy_mountain",
+      "steve_ross",
+      "tree",
+      "trees"
+    ]
+  },
+  {
+    "episode": "S31E12",
+    "subjects": [
+      "barn",
+      "conifer",
+      "deciduous",
+      "fog",
+      "path",
+      "snow",
+      "structure",
+      "tree",
+      "trees",
+      "winter"
+    ]
+  },
+  {
+    "episode": "S31E13",
+    "subjects": [
+      "deciduous",
+      "grass",
+      "mountain",
+      "tree",
+      "trees"
+    ]
+  }
+]

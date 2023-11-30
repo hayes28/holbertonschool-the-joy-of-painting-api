@@ -1,74 +1,74 @@
 [
   {
-    "color_name": "alizarin crimson",
+    "colors": "alizarin crimson",
     "hex_code": "#4e1500"
   },
   {
-    "color_name": "bright red",
+    "colors": "bright red",
     "hex_code": "#db0000"
   },
   {
-    "color_name": "cadmium yellow",
+    "colors": "cadmium yellow",
     "hex_code": "#ffec00"
   },
   {
-    "color_name": "phthalo green",
+    "colors": "phthalo green",
     "hex_code": "#102e3c"
   },
   {
-    "color_name": "prussian blue",
+    "colors": "prussian blue",
     "hex_code": "#021e44"
   },
   {
-    "color_name": "sap green",
+    "colors": "sap green",
     "hex_code": "#0a3410"
   },
   {
-    "color_name": "titanium white",
+    "colors": "titanium white",
     "hex_code": "#ffffff"
   },
   {
-    "color_name": "van dyke brown",
+    "colors": "van dyke brown",
     "hex_code": "#221b15"
   },
   {
-    "color_name": "black gesso",
+    "colors": "black gesso",
     "hex_code": "#000000"
   },
   {
-    "color_name": "burnt umber",
+    "colors": "burnt umber",
     "hex_code": "#8a3324"
   },
   {
-    "color_name": "indian yellow",
+    "colors": "indian yellow",
     "hex_code": "#ffb800"
   },
   {
-    "color_name": "phthalo blue",
+    "colors": "phthalo blue",
     "hex_code": "#0c0040"
   },
   {
-    "color_name": "yellow ochre",
+    "colors": "yellow ochre",
     "hex_code": "#c79b00"
   },
   {
-    "color_name": "liquid black",
+    "colors": "liquid black",
     "hex_code": "#000000"
   },
   {
-    "color_name": "midnight black",
+    "colors": "midnight black",
     "hex_code": "#000000"
   },
   {
-    "color_name": "liquid clear",
+    "colors": "liquid clear",
     "hex_code": "#ffffff"
   },
   {
-    "color_name": "dark sienna",
+    "colors": "dark sienna",
     "hex_code": "#5f2e1f"
   },
   {
-    "color_name": "indian red",
+    "colors": "indian red",
     "hex_code": "#cd5c5c"
   }
 ]
