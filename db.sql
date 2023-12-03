@@ -1,12 +1,13 @@
 -- Creating 'Episodes' table
 CREATE TABLE episodes (
     episode_id SERIAL PRIMARY KEY,
-    title VARCHAR(100),
+    episodes VARCHAR(10),
+    title VARCHAR(255),
     broadcast_date DATE,
     guest VARCHAR(100),
     img_url VARCHAR(255),
     youtube_url VARCHAR(255),
-    painting_index VARCHAR(10)
+    painting_index VARCHAR(50)
 );
 
 -- Creating 'UniqueSubjects' table

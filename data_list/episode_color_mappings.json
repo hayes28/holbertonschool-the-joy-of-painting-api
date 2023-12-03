@@ -1,6 +1,6 @@
 [
   {
-    "episode": "S01E01",
+    "episode_id": 1,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "episode": "S01E02",
+    "episode_id": 2,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "episode": "S01E03",
+    "episode_id": 3,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "episode": "S01E04",
+    "episode_id": 4,
     "colors": [
       "prussian blue",
       "titanium white",
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "episode": "S01E05",
+    "episode_id": 5,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -61,7 +61,7 @@
     ]
   },
   {
-    "episode": "S01E06",
+    "episode_id": 6,
     "colors": [
       "black gesso",
       "prussian blue",
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "episode": "S01E07",
+    "episode_id": 7,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "episode": "S01E08",
+    "episode_id": 8,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "episode": "S01E09",
+    "episode_id": 9,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "episode": "S01E10",
+    "episode_id": 10,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -122,7 +122,7 @@
     ]
   },
   {
-    "episode": "S01E11",
+    "episode_id": 11,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -135,7 +135,7 @@
     ]
   },
   {
-    "episode": "S01E12",
+    "episode_id": 12,
     "colors": [
       "alizarin crimson",
       "prussian blue",
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "episode": "S01E13",
+    "episode_id": 13,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -157,7 +157,7 @@
     ]
   },
   {
-    "episode": "S02E01",
+    "episode_id": 14,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "episode": "S02E02",
+    "episode_id": 15,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -191,7 +191,7 @@
     ]
   },
   {
-    "episode": "S02E03",
+    "episode_id": 16,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "episode": "S02E04",
+    "episode_id": 17,
     "colors": [
       "prussian blue",
       "titanium white",
@@ -217,7 +217,7 @@
     ]
   },
   {
-    "episode": "S02E05",
+    "episode_id": 18,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -233,7 +233,7 @@
     ]
   },
   {
-    "episode": "S02E06",
+    "episode_id": 19,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -249,7 +249,7 @@
     ]
   },
   {
-    "episode": "S02E07",
+    "episode_id": 20,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -265,7 +265,7 @@
     ]
   },
   {
-    "episode": "S02E08",
+    "episode_id": 21,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -282,7 +282,7 @@
     ]
   },
   {
-    "episode": "S02E09",
+    "episode_id": 22,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -299,7 +299,7 @@
     ]
   },
   {
-    "episode": "S02E10",
+    "episode_id": 23,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -316,7 +316,7 @@
     ]
   },
   {
-    "episode": "S02E11",
+    "episode_id": 24,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -333,7 +333,7 @@
     ]
   },
   {
-    "episode": "S02E12",
+    "episode_id": 25,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -350,7 +350,7 @@
     ]
   },
   {
-    "episode": "S02E13",
+    "episode_id": 26,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -367,7 +367,7 @@
     ]
   },
   {
-    "episode": "S03E01",
+    "episode_id": 27,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "episode": "S03E02",
+    "episode_id": 28,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -401,7 +401,7 @@
     ]
   },
   {
-    "episode": "S03E03",
+    "episode_id": 29,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -418,7 +418,7 @@
     ]
   },
   {
-    "episode": "S03E04",
+    "episode_id": 30,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -430,7 +430,7 @@
     ]
   },
   {
-    "episode": "S03E05",
+    "episode_id": 31,
     "colors": [
       "alizarin crimson",
       "burnt umber",
@@ -442,7 +442,7 @@
     ]
   },
   {
-    "episode": "S03E06",
+    "episode_id": 32,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -457,7 +457,7 @@
     ]
   },
   {
-    "episode": "S03E07",
+    "episode_id": 33,
     "colors": [
       "alizarin crimson",
       "burnt umber",
@@ -472,7 +472,7 @@
     ]
   },
   {
-    "episode": "S03E08",
+    "episode_id": 34,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "episode": "S03E09",
+    "episode_id": 35,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -501,7 +501,7 @@
     ]
   },
   {
-    "episode": "S03E10",
+    "episode_id": 36,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -514,7 +514,7 @@
     ]
   },
   {
-    "episode": "S03E11",
+    "episode_id": 37,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -531,7 +531,7 @@
     ]
   },
   {
-    "episode": "S03E12",
+    "episode_id": 38,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -546,7 +546,7 @@
     ]
   },
   {
-    "episode": "S03E13",
+    "episode_id": 39,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -560,7 +560,7 @@
     ]
   },
   {
-    "episode": "S04E01",
+    "episode_id": 40,
     "colors": [
       "alizarin crimson",
       "phthalo blue",
@@ -569,7 +569,7 @@
     ]
   },
   {
-    "episode": "S04E02",
+    "episode_id": 41,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -584,7 +584,7 @@
     ]
   },
   {
-    "episode": "S04E03",
+    "episode_id": 42,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -601,7 +601,7 @@
     ]
   },
   {
-    "episode": "S04E04",
+    "episode_id": 43,
     "colors": [
       "black gesso",
       "bright red",
@@ -613,7 +613,7 @@
     ]
   },
   {
-    "episode": "S04E05",
+    "episode_id": 44,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -628,7 +628,7 @@
     ]
   },
   {
-    "episode": "S04E06",
+    "episode_id": 45,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -644,7 +644,7 @@
     ]
   },
   {
-    "episode": "S04E07",
+    "episode_id": 46,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -660,7 +660,7 @@
     ]
   },
   {
-    "episode": "S04E08",
+    "episode_id": 47,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -675,7 +675,7 @@
     ]
   },
   {
-    "episode": "S04E09",
+    "episode_id": 48,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -692,7 +692,7 @@
     ]
   },
   {
-    "episode": "S04E10",
+    "episode_id": 49,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -708,7 +708,7 @@
     ]
   },
   {
-    "episode": "S04E11",
+    "episode_id": 50,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -723,7 +723,7 @@
     ]
   },
   {
-    "episode": "S04E12",
+    "episode_id": 51,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -740,7 +740,7 @@
     ]
   },
   {
-    "episode": "S04E13",
+    "episode_id": 52,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -755,7 +755,7 @@
     ]
   },
   {
-    "episode": "S05E01",
+    "episode_id": 53,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -764,6 +764,7 @@
       "indian yellow",
       "phthalo blue",
       "phthalo green",
+      "prussian blue",
       "sap green",
       "titanium white",
       "van dyke brown",
@@ -771,7 +772,7 @@
     ]
   },
   {
-    "episode": "S05E02",
+    "episode_id": 54,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -788,7 +789,7 @@
     ]
   },
   {
-    "episode": "S05E03",
+    "episode_id": 55,
     "colors": [
       "alizarin crimson",
       "liquid black",
@@ -798,7 +799,7 @@
     ]
   },
   {
-    "episode": "S05E04",
+    "episode_id": 56,
     "colors": [
       "alizarin crimson",
       "burnt umber",
@@ -810,7 +811,7 @@
     ]
   },
   {
-    "episode": "S05E05",
+    "episode_id": 57,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -825,7 +826,7 @@
     ]
   },
   {
-    "episode": "S05E06",
+    "episode_id": 58,
     "colors": [
       "alizarin crimson",
       "indian yellow",
@@ -836,7 +837,7 @@
     ]
   },
   {
-    "episode": "S05E07",
+    "episode_id": 59,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -851,7 +852,7 @@
     ]
   },
   {
-    "episode": "S05E08",
+    "episode_id": 60,
     "colors": [
       "alizarin crimson",
       "burnt umber",
@@ -865,7 +866,7 @@
     ]
   },
   {
-    "episode": "S05E09",
+    "episode_id": 61,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -876,7 +877,7 @@
     ]
   },
   {
-    "episode": "S05E10",
+    "episode_id": 62,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -892,7 +893,7 @@
     ]
   },
   {
-    "episode": "S05E11",
+    "episode_id": 63,
     "colors": [
       "alizarin crimson",
       "burnt umber",
@@ -905,7 +906,7 @@
     ]
   },
   {
-    "episode": "S05E12",
+    "episode_id": 64,
     "colors": [
       "bright red",
       "burnt umber",
@@ -915,7 +916,7 @@
     ]
   },
   {
-    "episode": "S05E13",
+    "episode_id": 65,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -931,7 +932,7 @@
     ]
   },
   {
-    "episode": "S06E01",
+    "episode_id": 66,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -948,7 +949,7 @@
     ]
   },
   {
-    "episode": "S06E02",
+    "episode_id": 67,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -964,7 +965,7 @@
     ]
   },
   {
-    "episode": "S06E03",
+    "episode_id": 68,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -979,7 +980,7 @@
     ]
   },
   {
-    "episode": "S06E04",
+    "episode_id": 69,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -995,7 +996,7 @@
     ]
   },
   {
-    "episode": "S06E05",
+    "episode_id": 70,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -1012,7 +1013,7 @@
     ]
   },
   {
-    "episode": "S06E06",
+    "episode_id": 71,
     "colors": [
       "alizarin crimson",
       "burnt umber",
@@ -1025,7 +1026,7 @@
     ]
   },
   {
-    "episode": "S06E07",
+    "episode_id": 72,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1041,7 +1042,7 @@
     ]
   },
   {
-    "episode": "S06E08",
+    "episode_id": 73,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1053,7 +1054,7 @@
     ]
   },
   {
-    "episode": "S06E09",
+    "episode_id": 74,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1069,7 +1070,7 @@
     ]
   },
   {
-    "episode": "S06E10",
+    "episode_id": 75,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1084,7 +1085,7 @@
     ]
   },
   {
-    "episode": "S06E11",
+    "episode_id": 76,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1100,7 +1101,7 @@
     ]
   },
   {
-    "episode": "S06E12",
+    "episode_id": 77,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -1116,7 +1117,7 @@
     ]
   },
   {
-    "episode": "S06E13",
+    "episode_id": 78,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1132,7 +1133,7 @@
     ]
   },
   {
-    "episode": "S07E01",
+    "episode_id": 79,
     "colors": [
       "bright red",
       "dark sienna",
@@ -1143,7 +1144,7 @@
     ]
   },
   {
-    "episode": "S07E02",
+    "episode_id": 80,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1160,7 +1161,7 @@
     ]
   },
   {
-    "episode": "S07E03",
+    "episode_id": 81,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1172,7 +1173,7 @@
     ]
   },
   {
-    "episode": "S07E04",
+    "episode_id": 82,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1189,7 +1190,7 @@
     ]
   },
   {
-    "episode": "S07E05",
+    "episode_id": 83,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1202,7 +1203,7 @@
     ]
   },
   {
-    "episode": "S07E06",
+    "episode_id": 84,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1218,7 +1219,7 @@
     ]
   },
   {
-    "episode": "S07E07",
+    "episode_id": 85,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1233,7 +1234,7 @@
     ]
   },
   {
-    "episode": "S07E08",
+    "episode_id": 86,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1249,7 +1250,7 @@
     ]
   },
   {
-    "episode": "S07E09",
+    "episode_id": 87,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1265,7 +1266,7 @@
     ]
   },
   {
-    "episode": "S07E10",
+    "episode_id": 88,
     "colors": [
       "bright red",
       "cadmium yellow",
@@ -1281,7 +1282,7 @@
     ]
   },
   {
-    "episode": "S07E11",
+    "episode_id": 89,
     "colors": [
       "alizarin crimson",
       "midnight black",
@@ -1289,7 +1290,7 @@
     ]
   },
   {
-    "episode": "S07E12",
+    "episode_id": 90,
     "colors": [
       "bright red",
       "cadmium yellow",
@@ -1303,7 +1304,7 @@
     ]
   },
   {
-    "episode": "S07E13",
+    "episode_id": 91,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1319,7 +1320,7 @@
     ]
   },
   {
-    "episode": "S08E01",
+    "episode_id": 92,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1334,7 +1335,7 @@
     ]
   },
   {
-    "episode": "S08E02",
+    "episode_id": 93,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1351,7 +1352,7 @@
     ]
   },
   {
-    "episode": "S08E03",
+    "episode_id": 94,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1366,7 +1367,7 @@
     ]
   },
   {
-    "episode": "S08E04",
+    "episode_id": 95,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1382,7 +1383,7 @@
     ]
   },
   {
-    "episode": "S08E05",
+    "episode_id": 96,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1398,7 +1399,7 @@
     ]
   },
   {
-    "episode": "S08E06",
+    "episode_id": 97,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1414,7 +1415,7 @@
     ]
   },
   {
-    "episode": "S08E07",
+    "episode_id": 98,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1429,7 +1430,7 @@
     ]
   },
   {
-    "episode": "S08E08",
+    "episode_id": 99,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1447,7 +1448,7 @@
     ]
   },
   {
-    "episode": "S08E09",
+    "episode_id": 100,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1463,7 +1464,7 @@
     ]
   },
   {
-    "episode": "S08E10",
+    "episode_id": 101,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -1478,7 +1479,7 @@
     ]
   },
   {
-    "episode": "S08E11",
+    "episode_id": 102,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1493,7 +1494,7 @@
     ]
   },
   {
-    "episode": "S08E12",
+    "episode_id": 103,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1508,7 +1509,7 @@
     ]
   },
   {
-    "episode": "S08E13",
+    "episode_id": 104,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -1522,7 +1523,7 @@
     ]
   },
   {
-    "episode": "S09E01",
+    "episode_id": 105,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1536,7 +1537,7 @@
     ]
   },
   {
-    "episode": "S09E02",
+    "episode_id": 106,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1552,7 +1553,7 @@
     ]
   },
   {
-    "episode": "S09E03",
+    "episode_id": 107,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -1568,7 +1569,7 @@
     ]
   },
   {
-    "episode": "S09E04",
+    "episode_id": 108,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1584,7 +1585,7 @@
     ]
   },
   {
-    "episode": "S09E05",
+    "episode_id": 109,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1596,7 +1597,7 @@
     ]
   },
   {
-    "episode": "S09E06",
+    "episode_id": 110,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -1612,7 +1613,7 @@
     ]
   },
   {
-    "episode": "S09E07",
+    "episode_id": 111,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1628,7 +1629,7 @@
     ]
   },
   {
-    "episode": "S09E08",
+    "episode_id": 112,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1644,7 +1645,7 @@
     ]
   },
   {
-    "episode": "S09E09",
+    "episode_id": 113,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1660,7 +1661,7 @@
     ]
   },
   {
-    "episode": "S09E10",
+    "episode_id": 114,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1676,7 +1677,7 @@
     ]
   },
   {
-    "episode": "S09E11",
+    "episode_id": 115,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1692,7 +1693,7 @@
     ]
   },
   {
-    "episode": "S09E12",
+    "episode_id": 116,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1710,7 +1711,7 @@
     ]
   },
   {
-    "episode": "S09E13",
+    "episode_id": 117,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -1727,7 +1728,7 @@
     ]
   },
   {
-    "episode": "S10E01",
+    "episode_id": 118,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1745,7 +1746,7 @@
     ]
   },
   {
-    "episode": "S10E02",
+    "episode_id": 119,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1762,7 +1763,7 @@
     ]
   },
   {
-    "episode": "S10E03",
+    "episode_id": 120,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1779,7 +1780,7 @@
     ]
   },
   {
-    "episode": "S10E04",
+    "episode_id": 121,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1796,7 +1797,7 @@
     ]
   },
   {
-    "episode": "S10E05",
+    "episode_id": 122,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -1813,7 +1814,7 @@
     ]
   },
   {
-    "episode": "S10E06",
+    "episode_id": 123,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1830,7 +1831,7 @@
     ]
   },
   {
-    "episode": "S10E07",
+    "episode_id": 124,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1842,7 +1843,7 @@
     ]
   },
   {
-    "episode": "S10E08",
+    "episode_id": 125,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -1859,7 +1860,7 @@
     ]
   },
   {
-    "episode": "S10E09",
+    "episode_id": 126,
     "colors": [
       "bright red",
       "cadmium yellow",
@@ -1875,7 +1876,7 @@
     ]
   },
   {
-    "episode": "S10E10",
+    "episode_id": 127,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1892,7 +1893,7 @@
     ]
   },
   {
-    "episode": "S10E11",
+    "episode_id": 128,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1909,7 +1910,7 @@
     ]
   },
   {
-    "episode": "S10E12",
+    "episode_id": 129,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1923,7 +1924,24 @@
     ]
   },
   {
-    "episode": "S10E13",
+    "episode_id": 130,
+    "colors": [
+      "alizarin crimson",
+      "bright red",
+      "cadmium yellow",
+      "dark sienna",
+      "indian yellow",
+      "midnight black",
+      "phthalo blue",
+      "phthalo green",
+      "sap green",
+      "titanium white",
+      "van dyke brown",
+      "yellow ochre"
+    ]
+  },
+  {
+    "episode_id": 131,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1940,24 +1958,7 @@
     ]
   },
   {
-    "episode": "S11E01",
-    "colors": [
-      "alizarin crimson",
-      "bright red",
-      "cadmium yellow",
-      "dark sienna",
-      "indian yellow",
-      "midnight black",
-      "phthalo blue",
-      "prussian blue",
-      "sap green",
-      "titanium white",
-      "van dyke brown",
-      "yellow ochre"
-    ]
-  },
-  {
-    "episode": "S11E02",
+    "episode_id": 132,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -1969,7 +1970,7 @@
     ]
   },
   {
-    "episode": "S11E03",
+    "episode_id": 133,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -1984,7 +1985,7 @@
     ]
   },
   {
-    "episode": "S11E04",
+    "episode_id": 134,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2001,7 +2002,7 @@
     ]
   },
   {
-    "episode": "S11E05",
+    "episode_id": 135,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -2018,7 +2019,7 @@
     ]
   },
   {
-    "episode": "S11E06",
+    "episode_id": 136,
     "colors": [
       "bright red",
       "dark sienna",
@@ -2029,7 +2030,7 @@
     ]
   },
   {
-    "episode": "S11E07",
+    "episode_id": 137,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2046,7 +2047,7 @@
     ]
   },
   {
-    "episode": "S11E08",
+    "episode_id": 138,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2062,7 +2063,7 @@
     ]
   },
   {
-    "episode": "S11E09",
+    "episode_id": 139,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -2073,7 +2074,7 @@
     ]
   },
   {
-    "episode": "S11E10",
+    "episode_id": 140,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -2088,7 +2089,7 @@
     ]
   },
   {
-    "episode": "S11E11",
+    "episode_id": 141,
     "colors": [
       "cadmium yellow",
       "dark sienna",
@@ -2101,7 +2102,7 @@
     ]
   },
   {
-    "episode": "S11E12",
+    "episode_id": 142,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2117,7 +2118,7 @@
     ]
   },
   {
-    "episode": "S11E13",
+    "episode_id": 143,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2133,7 +2134,7 @@
     ]
   },
   {
-    "episode": "S12E01",
+    "episode_id": 144,
     "colors": [
       "cadmium yellow",
       "dark sienna",
@@ -2145,7 +2146,7 @@
     ]
   },
   {
-    "episode": "S12E02",
+    "episode_id": 145,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2162,7 +2163,7 @@
     ]
   },
   {
-    "episode": "S12E03",
+    "episode_id": 146,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2180,7 +2181,7 @@
     ]
   },
   {
-    "episode": "S12E04",
+    "episode_id": 147,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2198,7 +2199,7 @@
     ]
   },
   {
-    "episode": "S12E05",
+    "episode_id": 148,
     "colors": [
       "black gesso",
       "bright red",
@@ -2212,7 +2213,7 @@
     ]
   },
   {
-    "episode": "S12E06",
+    "episode_id": 149,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2229,7 +2230,7 @@
     ]
   },
   {
-    "episode": "S12E07",
+    "episode_id": 150,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2246,7 +2247,7 @@
     ]
   },
   {
-    "episode": "S12E08",
+    "episode_id": 151,
     "colors": [
       "black gesso",
       "bright red",
@@ -2262,7 +2263,7 @@
     ]
   },
   {
-    "episode": "S12E09",
+    "episode_id": 152,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2279,7 +2280,7 @@
     ]
   },
   {
-    "episode": "S12E10",
+    "episode_id": 153,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2297,7 +2298,7 @@
     ]
   },
   {
-    "episode": "S12E11",
+    "episode_id": 154,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2314,7 +2315,7 @@
     ]
   },
   {
-    "episode": "S12E12",
+    "episode_id": 155,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2330,46 +2331,46 @@
     ]
   },
   {
-    "episode": "S12E13",
+    "episode_id": 156,
     "colors": [
       "alizarin crimson",
       "bright red",
       "midnight black",
       "phthalo blue",
-      "prussian blue",
-      "titanium white",
-      "van dyke brown"
-    ]
-  },
-  {
-    "episode": "S13E01",
-    "colors": [
-      "alizarin crimson",
-      "bright red",
-      "cadmium yellow",
-      "dark sienna",
-      "indian yellow",
-      "midnight black",
-      "phthalo blue",
-      "prussian blue",
-      "sap green",
-      "titanium white",
-      "van dyke brown",
-      "yellow ochre"
-    ]
-  },
-  {
-    "episode": "S13E02",
-    "colors": [
-      "dark sienna",
-      "midnight black",
       "prussian blue",
       "titanium white",
       "van dyke brown"
     ]
   },
   {
-    "episode": "S13E03",
+    "episode_id": 157,
+    "colors": [
+      "alizarin crimson",
+      "bright red",
+      "cadmium yellow",
+      "dark sienna",
+      "indian yellow",
+      "midnight black",
+      "phthalo blue",
+      "prussian blue",
+      "sap green",
+      "titanium white",
+      "van dyke brown",
+      "yellow ochre"
+    ]
+  },
+  {
+    "episode_id": 158,
+    "colors": [
+      "dark sienna",
+      "midnight black",
+      "prussian blue",
+      "titanium white",
+      "van dyke brown"
+    ]
+  },
+  {
+    "episode_id": 159,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2387,7 +2388,7 @@
     ]
   },
   {
-    "episode": "S13E04",
+    "episode_id": 160,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -2404,7 +2405,7 @@
     ]
   },
   {
-    "episode": "S13E05",
+    "episode_id": 161,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2420,7 +2421,7 @@
     ]
   },
   {
-    "episode": "S13E06",
+    "episode_id": 162,
     "colors": [
       "black gesso",
       "cadmium yellow",
@@ -2435,7 +2436,7 @@
     ]
   },
   {
-    "episode": "S13E07",
+    "episode_id": 163,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2453,7 +2454,7 @@
     ]
   },
   {
-    "episode": "S13E08",
+    "episode_id": 164,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -2468,7 +2469,7 @@
     ]
   },
   {
-    "episode": "S13E09",
+    "episode_id": 165,
     "colors": [
       "black gesso",
       "cadmium yellow",
@@ -2482,7 +2483,7 @@
     ]
   },
   {
-    "episode": "S13E10",
+    "episode_id": 166,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2499,7 +2500,7 @@
     ]
   },
   {
-    "episode": "S13E11",
+    "episode_id": 167,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2514,7 +2515,7 @@
     ]
   },
   {
-    "episode": "S13E12",
+    "episode_id": 168,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -2527,7 +2528,7 @@
     ]
   },
   {
-    "episode": "S13E13",
+    "episode_id": 169,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2544,7 +2545,7 @@
     ]
   },
   {
-    "episode": "S14E01",
+    "episode_id": 170,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2562,7 +2563,7 @@
     ]
   },
   {
-    "episode": "S14E02",
+    "episode_id": 171,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2579,7 +2580,7 @@
     ]
   },
   {
-    "episode": "S14E03",
+    "episode_id": 172,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -2596,7 +2597,7 @@
     ]
   },
   {
-    "episode": "S14E04",
+    "episode_id": 173,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -2608,7 +2609,7 @@
     ]
   },
   {
-    "episode": "S14E05",
+    "episode_id": 174,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2626,7 +2627,7 @@
     ]
   },
   {
-    "episode": "S14E06",
+    "episode_id": 175,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2643,7 +2644,7 @@
     ]
   },
   {
-    "episode": "S14E07",
+    "episode_id": 176,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2662,7 +2663,7 @@
     ]
   },
   {
-    "episode": "S14E08",
+    "episode_id": 177,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2678,25 +2679,7 @@
     ]
   },
   {
-    "episode": "S14E09",
-    "colors": [
-      "alizarin crimson",
-      "bright red",
-      "cadmium yellow",
-      "dark sienna",
-      "indian yellow",
-      "midnight black",
-      "phthalo blue",
-      "phthalo green",
-      "prussian blue",
-      "sap green",
-      "titanium white",
-      "van dyke brown",
-      "yellow ochre"
-    ]
-  },
-  {
-    "episode": "S14E10",
+    "episode_id": 178,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2714,7 +2697,25 @@
     ]
   },
   {
-    "episode": "S14E11",
+    "episode_id": 179,
+    "colors": [
+      "alizarin crimson",
+      "bright red",
+      "cadmium yellow",
+      "dark sienna",
+      "indian yellow",
+      "midnight black",
+      "phthalo blue",
+      "phthalo green",
+      "prussian blue",
+      "sap green",
+      "titanium white",
+      "van dyke brown",
+      "yellow ochre"
+    ]
+  },
+  {
+    "episode_id": 180,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -2732,7 +2733,7 @@
     ]
   },
   {
-    "episode": "S14E12",
+    "episode_id": 181,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -2749,7 +2750,7 @@
     ]
   },
   {
-    "episode": "S14E13",
+    "episode_id": 182,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -2765,7 +2766,7 @@
     ]
   },
   {
-    "episode": "S15E01",
+    "episode_id": 183,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2780,7 +2781,7 @@
     ]
   },
   {
-    "episode": "S15E02",
+    "episode_id": 184,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2797,7 +2798,7 @@
     ]
   },
   {
-    "episode": "S15E03",
+    "episode_id": 185,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2813,7 +2814,7 @@
     ]
   },
   {
-    "episode": "S15E04",
+    "episode_id": 186,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2831,7 +2832,7 @@
     ]
   },
   {
-    "episode": "S15E05",
+    "episode_id": 187,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -2844,7 +2845,7 @@
     ]
   },
   {
-    "episode": "S15E06",
+    "episode_id": 188,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2861,7 +2862,7 @@
     ]
   },
   {
-    "episode": "S15E07",
+    "episode_id": 189,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2878,7 +2879,7 @@
     ]
   },
   {
-    "episode": "S15E08",
+    "episode_id": 190,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2895,7 +2896,7 @@
     ]
   },
   {
-    "episode": "S15E09",
+    "episode_id": 191,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -2909,7 +2910,7 @@
     ]
   },
   {
-    "episode": "S15E10",
+    "episode_id": 192,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -2926,7 +2927,7 @@
     ]
   },
   {
-    "episode": "S15E11",
+    "episode_id": 193,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2943,7 +2944,7 @@
     ]
   },
   {
-    "episode": "S15E12",
+    "episode_id": 194,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -2961,7 +2962,7 @@
     ]
   },
   {
-    "episode": "S15E13",
+    "episode_id": 195,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -2977,7 +2978,7 @@
     ]
   },
   {
-    "episode": "S16E01",
+    "episode_id": 196,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -2995,7 +2996,7 @@
     ]
   },
   {
-    "episode": "S16E02",
+    "episode_id": 197,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3012,7 +3013,7 @@
     ]
   },
   {
-    "episode": "S16E03",
+    "episode_id": 198,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3028,7 +3029,7 @@
     ]
   },
   {
-    "episode": "S16E04",
+    "episode_id": 199,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3045,7 +3046,7 @@
     ]
   },
   {
-    "episode": "S16E05",
+    "episode_id": 200,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3063,13 +3064,13 @@
     ]
   },
   {
-    "episode": "S16E06",
+    "episode_id": 201,
     "colors": [
       "van dyke brown"
     ]
   },
   {
-    "episode": "S16E07",
+    "episode_id": 202,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3084,7 +3085,7 @@
     ]
   },
   {
-    "episode": "S16E08",
+    "episode_id": 203,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3101,7 +3102,7 @@
     ]
   },
   {
-    "episode": "S16E09",
+    "episode_id": 204,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -3113,7 +3114,7 @@
     ]
   },
   {
-    "episode": "S16E10",
+    "episode_id": 205,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3127,7 +3128,7 @@
     ]
   },
   {
-    "episode": "S16E11",
+    "episode_id": 206,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3143,7 +3144,7 @@
     ]
   },
   {
-    "episode": "S16E12",
+    "episode_id": 207,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3159,7 +3160,7 @@
     ]
   },
   {
-    "episode": "S16E13",
+    "episode_id": 208,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3176,7 +3177,7 @@
     ]
   },
   {
-    "episode": "S17E01",
+    "episode_id": 209,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3190,7 +3191,7 @@
     ]
   },
   {
-    "episode": "S17E02",
+    "episode_id": 210,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3206,7 +3207,7 @@
     ]
   },
   {
-    "episode": "S17E03",
+    "episode_id": 211,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3224,7 +3225,7 @@
     ]
   },
   {
-    "episode": "S17E04",
+    "episode_id": 212,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3238,7 +3239,7 @@
     ]
   },
   {
-    "episode": "S17E05",
+    "episode_id": 213,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3256,7 +3257,7 @@
     ]
   },
   {
-    "episode": "S17E06",
+    "episode_id": 214,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3271,7 +3272,7 @@
     ]
   },
   {
-    "episode": "S17E07",
+    "episode_id": 215,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3291,7 +3292,7 @@
     ]
   },
   {
-    "episode": "S17E08",
+    "episode_id": 216,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3309,7 +3310,7 @@
     ]
   },
   {
-    "episode": "S17E09",
+    "episode_id": 217,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3326,7 +3327,7 @@
     ]
   },
   {
-    "episode": "S17E10",
+    "episode_id": 218,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3342,7 +3343,7 @@
     ]
   },
   {
-    "episode": "S17E11",
+    "episode_id": 219,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3359,7 +3360,7 @@
     ]
   },
   {
-    "episode": "S17E12",
+    "episode_id": 220,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3377,7 +3378,7 @@
     ]
   },
   {
-    "episode": "S17E13",
+    "episode_id": 221,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3393,7 +3394,7 @@
     ]
   },
   {
-    "episode": "S18E01",
+    "episode_id": 222,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3410,7 +3411,7 @@
     ]
   },
   {
-    "episode": "S18E02",
+    "episode_id": 223,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3426,7 +3427,7 @@
     ]
   },
   {
-    "episode": "S18E03",
+    "episode_id": 224,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3441,7 +3442,7 @@
     ]
   },
   {
-    "episode": "S18E04",
+    "episode_id": 225,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3458,7 +3459,7 @@
     ]
   },
   {
-    "episode": "S18E05",
+    "episode_id": 226,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3474,7 +3475,7 @@
     ]
   },
   {
-    "episode": "S18E06",
+    "episode_id": 227,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3492,7 +3493,7 @@
     ]
   },
   {
-    "episode": "S18E07",
+    "episode_id": 228,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3509,7 +3510,7 @@
     ]
   },
   {
-    "episode": "S18E08",
+    "episode_id": 229,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3522,7 +3523,7 @@
     ]
   },
   {
-    "episode": "S18E09",
+    "episode_id": 230,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3538,7 +3539,7 @@
     ]
   },
   {
-    "episode": "S18E10",
+    "episode_id": 231,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3556,7 +3557,7 @@
     ]
   },
   {
-    "episode": "S18E11",
+    "episode_id": 232,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3573,7 +3574,7 @@
     ]
   },
   {
-    "episode": "S18E12",
+    "episode_id": 233,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3588,7 +3589,7 @@
     ]
   },
   {
-    "episode": "S18E13",
+    "episode_id": 234,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3605,7 +3606,7 @@
     ]
   },
   {
-    "episode": "S19E01",
+    "episode_id": 235,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3620,7 +3621,7 @@
     ]
   },
   {
-    "episode": "S19E02",
+    "episode_id": 236,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3639,7 +3640,7 @@
     ]
   },
   {
-    "episode": "S19E03",
+    "episode_id": 237,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3656,7 +3657,7 @@
     ]
   },
   {
-    "episode": "S19E04",
+    "episode_id": 238,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -3668,7 +3669,7 @@
     ]
   },
   {
-    "episode": "S19E05",
+    "episode_id": 239,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -3684,7 +3685,7 @@
     ]
   },
   {
-    "episode": "S19E06",
+    "episode_id": 240,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3703,7 +3704,7 @@
     ]
   },
   {
-    "episode": "S19E07",
+    "episode_id": 241,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3718,7 +3719,7 @@
     ]
   },
   {
-    "episode": "S19E08",
+    "episode_id": 242,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3736,7 +3737,7 @@
     ]
   },
   {
-    "episode": "S19E09",
+    "episode_id": 243,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3751,7 +3752,7 @@
     ]
   },
   {
-    "episode": "S19E10",
+    "episode_id": 244,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3768,7 +3769,7 @@
     ]
   },
   {
-    "episode": "S19E11",
+    "episode_id": 245,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3782,7 +3783,7 @@
     ]
   },
   {
-    "episode": "S19E12",
+    "episode_id": 246,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3797,7 +3798,7 @@
     ]
   },
   {
-    "episode": "S19E13",
+    "episode_id": 247,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3815,7 +3816,7 @@
     ]
   },
   {
-    "episode": "S20E01",
+    "episode_id": 248,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3832,7 +3833,7 @@
     ]
   },
   {
-    "episode": "S20E02",
+    "episode_id": 249,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3849,7 +3850,7 @@
     ]
   },
   {
-    "episode": "S20E03",
+    "episode_id": 250,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3863,7 +3864,7 @@
     ]
   },
   {
-    "episode": "S20E04",
+    "episode_id": 251,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3879,7 +3880,7 @@
     ]
   },
   {
-    "episode": "S20E05",
+    "episode_id": 252,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -3896,7 +3897,7 @@
     ]
   },
   {
-    "episode": "S20E06",
+    "episode_id": 253,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3913,7 +3914,7 @@
     ]
   },
   {
-    "episode": "S20E07",
+    "episode_id": 254,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3929,7 +3930,7 @@
     ]
   },
   {
-    "episode": "S20E08",
+    "episode_id": 255,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -3947,7 +3948,7 @@
     ]
   },
   {
-    "episode": "S20E09",
+    "episode_id": 256,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -3958,7 +3959,7 @@
     ]
   },
   {
-    "episode": "S20E10",
+    "episode_id": 257,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3975,7 +3976,7 @@
     ]
   },
   {
-    "episode": "S20E11",
+    "episode_id": 258,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -3992,7 +3993,7 @@
     ]
   },
   {
-    "episode": "S20E12",
+    "episode_id": 259,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4008,7 +4009,7 @@
     ]
   },
   {
-    "episode": "S20E13",
+    "episode_id": 260,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4026,7 +4027,7 @@
     ]
   },
   {
-    "episode": "S21E01",
+    "episode_id": 261,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4044,7 +4045,7 @@
     ]
   },
   {
-    "episode": "S21E02",
+    "episode_id": 262,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -4059,7 +4060,7 @@
     ]
   },
   {
-    "episode": "S21E03",
+    "episode_id": 263,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4078,7 +4079,7 @@
     ]
   },
   {
-    "episode": "S21E04",
+    "episode_id": 264,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4095,7 +4096,7 @@
     ]
   },
   {
-    "episode": "S21E05",
+    "episode_id": 265,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4113,7 +4114,7 @@
     ]
   },
   {
-    "episode": "S21E06",
+    "episode_id": 266,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -4126,7 +4127,7 @@
     ]
   },
   {
-    "episode": "S21E07",
+    "episode_id": 267,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4145,7 +4146,7 @@
     ]
   },
   {
-    "episode": "S21E08",
+    "episode_id": 268,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4163,7 +4164,7 @@
     ]
   },
   {
-    "episode": "S21E09",
+    "episode_id": 269,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4181,7 +4182,7 @@
     ]
   },
   {
-    "episode": "S21E10",
+    "episode_id": 270,
     "colors": [
       "midnight black",
       "prussian blue",
@@ -4189,7 +4190,7 @@
     ]
   },
   {
-    "episode": "S21E11",
+    "episode_id": 271,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4203,7 +4204,7 @@
     ]
   },
   {
-    "episode": "S21E12",
+    "episode_id": 272,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4221,7 +4222,7 @@
     ]
   },
   {
-    "episode": "S21E13",
+    "episode_id": 273,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -4237,7 +4238,7 @@
     ]
   },
   {
-    "episode": "S22E01",
+    "episode_id": 274,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4253,7 +4254,7 @@
     ]
   },
   {
-    "episode": "S22E02",
+    "episode_id": 275,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4271,7 +4272,7 @@
     ]
   },
   {
-    "episode": "S22E03",
+    "episode_id": 276,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4290,7 +4291,7 @@
     ]
   },
   {
-    "episode": "S22E04",
+    "episode_id": 277,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4307,7 +4308,7 @@
     ]
   },
   {
-    "episode": "S22E05",
+    "episode_id": 278,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -4321,7 +4322,7 @@
     ]
   },
   {
-    "episode": "S22E06",
+    "episode_id": 279,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4337,24 +4338,7 @@
     ]
   },
   {
-    "episode": "S22E07",
-    "colors": [
-      "alizarin crimson",
-      "bright red",
-      "cadmium yellow",
-      "dark sienna",
-      "indian yellow",
-      "midnight black",
-      "phthalo blue",
-      "prussian blue",
-      "sap green",
-      "titanium white",
-      "van dyke brown",
-      "yellow ochre"
-    ]
-  },
-  {
-    "episode": "S22E08",
+    "episode_id": 280,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4371,7 +4355,24 @@
     ]
   },
   {
-    "episode": "S22E09",
+    "episode_id": 281,
+    "colors": [
+      "alizarin crimson",
+      "bright red",
+      "cadmium yellow",
+      "dark sienna",
+      "indian yellow",
+      "midnight black",
+      "phthalo blue",
+      "prussian blue",
+      "sap green",
+      "titanium white",
+      "van dyke brown",
+      "yellow ochre"
+    ]
+  },
+  {
+    "episode_id": 282,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4389,7 +4390,7 @@
     ]
   },
   {
-    "episode": "S22E10",
+    "episode_id": 283,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -4401,7 +4402,7 @@
     ]
   },
   {
-    "episode": "S22E11",
+    "episode_id": 284,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4417,7 +4418,7 @@
     ]
   },
   {
-    "episode": "S22E12",
+    "episode_id": 285,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4435,7 +4436,7 @@
     ]
   },
   {
-    "episode": "S22E13",
+    "episode_id": 286,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4453,7 +4454,7 @@
     ]
   },
   {
-    "episode": "S23E01",
+    "episode_id": 287,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -4466,7 +4467,7 @@
     ]
   },
   {
-    "episode": "S23E02",
+    "episode_id": 288,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4483,7 +4484,7 @@
     ]
   },
   {
-    "episode": "S23E03",
+    "episode_id": 289,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4500,7 +4501,7 @@
     ]
   },
   {
-    "episode": "S23E04",
+    "episode_id": 290,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4515,7 +4516,7 @@
     ]
   },
   {
-    "episode": "S23E05",
+    "episode_id": 291,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4531,7 +4532,7 @@
     ]
   },
   {
-    "episode": "S23E06",
+    "episode_id": 292,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4549,7 +4550,7 @@
     ]
   },
   {
-    "episode": "S23E07",
+    "episode_id": 293,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4563,7 +4564,7 @@
     ]
   },
   {
-    "episode": "S23E08",
+    "episode_id": 294,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4583,7 +4584,7 @@
     ]
   },
   {
-    "episode": "S23E09",
+    "episode_id": 295,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4601,7 +4602,7 @@
     ]
   },
   {
-    "episode": "S23E10",
+    "episode_id": 296,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4620,7 +4621,7 @@
     ]
   },
   {
-    "episode": "S23E11",
+    "episode_id": 297,
     "colors": [
       "bright red",
       "dark sienna",
@@ -4634,7 +4635,7 @@
     ]
   },
   {
-    "episode": "S23E12",
+    "episode_id": 298,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -4647,7 +4648,7 @@
     ]
   },
   {
-    "episode": "S23E13",
+    "episode_id": 299,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -4659,7 +4660,7 @@
     ]
   },
   {
-    "episode": "S24E01",
+    "episode_id": 300,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4677,7 +4678,7 @@
     ]
   },
   {
-    "episode": "S24E02",
+    "episode_id": 301,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4693,7 +4694,7 @@
     ]
   },
   {
-    "episode": "S24E03",
+    "episode_id": 302,
     "colors": [
       "alizarin crimson",
       "midnight black",
@@ -4704,7 +4705,7 @@
     ]
   },
   {
-    "episode": "S24E04",
+    "episode_id": 303,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4721,7 +4722,7 @@
     ]
   },
   {
-    "episode": "S24E05",
+    "episode_id": 304,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4739,7 +4740,7 @@
     ]
   },
   {
-    "episode": "S24E06",
+    "episode_id": 305,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4756,7 +4757,7 @@
     ]
   },
   {
-    "episode": "S24E07",
+    "episode_id": 306,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4772,7 +4773,7 @@
     ]
   },
   {
-    "episode": "S24E08",
+    "episode_id": 307,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4792,7 +4793,7 @@
     ]
   },
   {
-    "episode": "S24E09",
+    "episode_id": 308,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4808,7 +4809,7 @@
     ]
   },
   {
-    "episode": "S24E10",
+    "episode_id": 309,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -4821,7 +4822,7 @@
     ]
   },
   {
-    "episode": "S24E11",
+    "episode_id": 310,
     "colors": [
       "alizarin crimson",
       "midnight black",
@@ -4831,7 +4832,7 @@
     ]
   },
   {
-    "episode": "S24E12",
+    "episode_id": 311,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4849,7 +4850,7 @@
     ]
   },
   {
-    "episode": "S24E13",
+    "episode_id": 312,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4862,7 +4863,7 @@
     ]
   },
   {
-    "episode": "S25E01",
+    "episode_id": 313,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4880,7 +4881,7 @@
     ]
   },
   {
-    "episode": "S25E02",
+    "episode_id": 314,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4891,7 +4892,7 @@
     ]
   },
   {
-    "episode": "S25E03",
+    "episode_id": 315,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4905,7 +4906,7 @@
     ]
   },
   {
-    "episode": "S25E04",
+    "episode_id": 316,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4924,7 +4925,7 @@
     ]
   },
   {
-    "episode": "S25E05",
+    "episode_id": 317,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4940,7 +4941,7 @@
     ]
   },
   {
-    "episode": "S25E06",
+    "episode_id": 318,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4956,7 +4957,7 @@
     ]
   },
   {
-    "episode": "S25E07",
+    "episode_id": 319,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -4974,7 +4975,7 @@
     ]
   },
   {
-    "episode": "S25E08",
+    "episode_id": 320,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -4991,7 +4992,7 @@
     ]
   },
   {
-    "episode": "S25E09",
+    "episode_id": 321,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5010,7 +5011,7 @@
     ]
   },
   {
-    "episode": "S25E10",
+    "episode_id": 322,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -5023,7 +5024,7 @@
     ]
   },
   {
-    "episode": "S25E11",
+    "episode_id": 323,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5040,7 +5041,7 @@
     ]
   },
   {
-    "episode": "S25E12",
+    "episode_id": 324,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5056,7 +5057,7 @@
     ]
   },
   {
-    "episode": "S25E13",
+    "episode_id": 325,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5072,7 +5073,7 @@
     ]
   },
   {
-    "episode": "S26E01",
+    "episode_id": 326,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -5087,7 +5088,7 @@
     ]
   },
   {
-    "episode": "S26E02",
+    "episode_id": 327,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5101,7 +5102,7 @@
     ]
   },
   {
-    "episode": "S26E03",
+    "episode_id": 328,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5118,7 +5119,7 @@
     ]
   },
   {
-    "episode": "S26E04",
+    "episode_id": 329,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5138,7 +5139,7 @@
     ]
   },
   {
-    "episode": "S26E05",
+    "episode_id": 330,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5156,7 +5157,7 @@
     ]
   },
   {
-    "episode": "S26E06",
+    "episode_id": 331,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -5167,7 +5168,7 @@
     ]
   },
   {
-    "episode": "S26E07",
+    "episode_id": 332,
     "colors": [
       "black gesso",
       "indian yellow",
@@ -5177,7 +5178,7 @@
     ]
   },
   {
-    "episode": "S26E08",
+    "episode_id": 333,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5194,7 +5195,7 @@
     ]
   },
   {
-    "episode": "S26E09",
+    "episode_id": 334,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5211,7 +5212,7 @@
     ]
   },
   {
-    "episode": "S26E10",
+    "episode_id": 335,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5229,7 +5230,7 @@
     ]
   },
   {
-    "episode": "S26E11",
+    "episode_id": 336,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5244,7 +5245,7 @@
     ]
   },
   {
-    "episode": "S26E12",
+    "episode_id": 337,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5261,7 +5262,7 @@
     ]
   },
   {
-    "episode": "S26E13",
+    "episode_id": 338,
     "colors": [
       "black gesso",
       "cadmium yellow",
@@ -5273,7 +5274,7 @@
     ]
   },
   {
-    "episode": "S27E01",
+    "episode_id": 339,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5289,7 +5290,7 @@
     ]
   },
   {
-    "episode": "S27E02",
+    "episode_id": 340,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5309,7 +5310,7 @@
     ]
   },
   {
-    "episode": "S27E03",
+    "episode_id": 341,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -5320,7 +5321,7 @@
     ]
   },
   {
-    "episode": "S27E04",
+    "episode_id": 342,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5340,7 +5341,7 @@
     ]
   },
   {
-    "episode": "S27E05",
+    "episode_id": 343,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -5352,7 +5353,7 @@
     ]
   },
   {
-    "episode": "S27E06",
+    "episode_id": 344,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5365,7 +5366,7 @@
     ]
   },
   {
-    "episode": "S27E07",
+    "episode_id": 345,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5381,7 +5382,7 @@
     ]
   },
   {
-    "episode": "S27E08",
+    "episode_id": 346,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -5393,7 +5394,7 @@
     ]
   },
   {
-    "episode": "S27E09",
+    "episode_id": 347,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5410,7 +5411,7 @@
     ]
   },
   {
-    "episode": "S27E10",
+    "episode_id": 348,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5422,7 +5423,7 @@
     ]
   },
   {
-    "episode": "S27E11",
+    "episode_id": 349,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -5436,7 +5437,7 @@
     ]
   },
   {
-    "episode": "S27E12",
+    "episode_id": 350,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5455,7 +5456,7 @@
     ]
   },
   {
-    "episode": "S27E13",
+    "episode_id": 351,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5469,7 +5470,7 @@
     ]
   },
   {
-    "episode": "S28E01",
+    "episode_id": 352,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5486,7 +5487,7 @@
     ]
   },
   {
-    "episode": "S28E02",
+    "episode_id": 353,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5500,7 +5501,7 @@
     ]
   },
   {
-    "episode": "S28E03",
+    "episode_id": 354,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5517,7 +5518,7 @@
     ]
   },
   {
-    "episode": "S28E04",
+    "episode_id": 355,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5530,7 +5531,7 @@
     ]
   },
   {
-    "episode": "S28E05",
+    "episode_id": 356,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5545,7 +5546,7 @@
     ]
   },
   {
-    "episode": "S28E06",
+    "episode_id": 357,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5562,7 +5563,7 @@
     ]
   },
   {
-    "episode": "S28E07",
+    "episode_id": 358,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5576,7 +5577,7 @@
     ]
   },
   {
-    "episode": "S28E08",
+    "episode_id": 359,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5594,7 +5595,7 @@
     ]
   },
   {
-    "episode": "S28E09",
+    "episode_id": 360,
     "colors": [
       "midnight black",
       "phthalo blue",
@@ -5603,7 +5604,7 @@
     ]
   },
   {
-    "episode": "S28E10",
+    "episode_id": 361,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5619,7 +5620,7 @@
     ]
   },
   {
-    "episode": "S28E11",
+    "episode_id": 362,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5635,7 +5636,7 @@
     ]
   },
   {
-    "episode": "S28E12",
+    "episode_id": 363,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5653,7 +5654,7 @@
     ]
   },
   {
-    "episode": "S28E13",
+    "episode_id": 364,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5666,7 +5667,7 @@
     ]
   },
   {
-    "episode": "S29E01",
+    "episode_id": 365,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5684,7 +5685,7 @@
     ]
   },
   {
-    "episode": "S29E02",
+    "episode_id": 366,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5699,7 +5700,7 @@
     ]
   },
   {
-    "episode": "S29E03",
+    "episode_id": 367,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5717,7 +5718,7 @@
     ]
   },
   {
-    "episode": "S29E04",
+    "episode_id": 368,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5736,7 +5737,7 @@
     ]
   },
   {
-    "episode": "S29E05",
+    "episode_id": 369,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5753,7 +5754,7 @@
     ]
   },
   {
-    "episode": "S29E06",
+    "episode_id": 370,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -5767,7 +5768,7 @@
     ]
   },
   {
-    "episode": "S29E07",
+    "episode_id": 371,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5783,7 +5784,7 @@
     ]
   },
   {
-    "episode": "S29E08",
+    "episode_id": 372,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5800,7 +5801,7 @@
     ]
   },
   {
-    "episode": "S29E09",
+    "episode_id": 373,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5814,7 +5815,7 @@
     ]
   },
   {
-    "episode": "S29E10",
+    "episode_id": 374,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5825,7 +5826,7 @@
     ]
   },
   {
-    "episode": "S29E11",
+    "episode_id": 375,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -5837,7 +5838,7 @@
     ]
   },
   {
-    "episode": "S29E12",
+    "episode_id": 376,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -5851,7 +5852,7 @@
     ]
   },
   {
-    "episode": "S29E13",
+    "episode_id": 377,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5868,7 +5869,7 @@
     ]
   },
   {
-    "episode": "S30E01",
+    "episode_id": 378,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5885,40 +5886,7 @@
     ]
   },
   {
-    "episode": "S30E02",
-    "colors": [
-      "alizarin crimson",
-      "black gesso",
-      "bright red",
-      "cadmium yellow",
-      "dark sienna",
-      "indian yellow",
-      "liquid clear",
-      "midnight black",
-      "prussian blue",
-      "sap green",
-      "titanium white",
-      "van dyke brown",
-      "yellow ochre"
-    ]
-  },
-  {
-    "episode": "S30E03",
-    "colors": [
-      "alizarin crimson",
-      "bright red",
-      "dark sienna",
-      "indian yellow",
-      "midnight black",
-      "phthalo blue",
-      "prussian blue",
-      "titanium white",
-      "van dyke brown",
-      "yellow ochre"
-    ]
-  },
-  {
-    "episode": "S30E04",
+    "episode_id": 379,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -5936,7 +5904,40 @@
     ]
   },
   {
-    "episode": "S30E05",
+    "episode_id": 380,
+    "colors": [
+      "alizarin crimson",
+      "bright red",
+      "dark sienna",
+      "indian yellow",
+      "midnight black",
+      "phthalo blue",
+      "prussian blue",
+      "titanium white",
+      "van dyke brown",
+      "yellow ochre"
+    ]
+  },
+  {
+    "episode_id": 381,
+    "colors": [
+      "alizarin crimson",
+      "black gesso",
+      "bright red",
+      "cadmium yellow",
+      "dark sienna",
+      "indian yellow",
+      "liquid clear",
+      "midnight black",
+      "prussian blue",
+      "sap green",
+      "titanium white",
+      "van dyke brown",
+      "yellow ochre"
+    ]
+  },
+  {
+    "episode_id": 382,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -5954,7 +5955,7 @@
     ]
   },
   {
-    "episode": "S30E06",
+    "episode_id": 383,
     "colors": [
       "alizarin crimson",
       "cadmium yellow",
@@ -5969,7 +5970,7 @@
     ]
   },
   {
-    "episode": "S30E07",
+    "episode_id": 384,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -5981,58 +5982,7 @@
     ]
   },
   {
-    "episode": "S30E08",
-    "colors": [
-      "alizarin crimson",
-      "bright red",
-      "cadmium yellow",
-      "dark sienna",
-      "indian yellow",
-      "midnight black",
-      "phthalo blue",
-      "phthalo green",
-      "prussian blue",
-      "sap green",
-      "titanium white",
-      "van dyke brown",
-      "yellow ochre"
-    ]
-  },
-  {
-    "episode": "S30E09",
-    "colors": [
-      "alizarin crimson",
-      "bright red",
-      "cadmium yellow",
-      "dark sienna",
-      "midnight black",
-      "phthalo blue",
-      "prussian blue",
-      "sap green",
-      "titanium white",
-      "van dyke brown",
-      "yellow ochre"
-    ]
-  },
-  {
-    "episode": "S30E10",
-    "colors": [
-      "alizarin crimson",
-      "black gesso",
-      "cadmium yellow",
-      "dark sienna",
-      "indian yellow",
-      "liquid clear",
-      "midnight black",
-      "phthalo blue",
-      "prussian blue",
-      "sap green",
-      "titanium white",
-      "van dyke brown"
-    ]
-  },
-  {
-    "episode": "S30E11",
+    "episode_id": 385,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -6050,7 +6000,58 @@
     ]
   },
   {
-    "episode": "S30E12",
+    "episode_id": 386,
+    "colors": [
+      "alizarin crimson",
+      "bright red",
+      "cadmium yellow",
+      "dark sienna",
+      "midnight black",
+      "phthalo blue",
+      "prussian blue",
+      "sap green",
+      "titanium white",
+      "van dyke brown",
+      "yellow ochre"
+    ]
+  },
+  {
+    "episode_id": 387,
+    "colors": [
+      "alizarin crimson",
+      "black gesso",
+      "cadmium yellow",
+      "dark sienna",
+      "indian yellow",
+      "liquid clear",
+      "midnight black",
+      "phthalo blue",
+      "prussian blue",
+      "sap green",
+      "titanium white",
+      "van dyke brown"
+    ]
+  },
+  {
+    "episode_id": 388,
+    "colors": [
+      "alizarin crimson",
+      "bright red",
+      "cadmium yellow",
+      "dark sienna",
+      "indian yellow",
+      "midnight black",
+      "phthalo blue",
+      "phthalo green",
+      "prussian blue",
+      "sap green",
+      "titanium white",
+      "van dyke brown",
+      "yellow ochre"
+    ]
+  },
+  {
+    "episode_id": 389,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -6065,7 +6066,7 @@
     ]
   },
   {
-    "episode": "S30E13",
+    "episode_id": 390,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -6082,7 +6083,7 @@
     ]
   },
   {
-    "episode": "S31E01",
+    "episode_id": 391,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -6099,7 +6100,7 @@
     ]
   },
   {
-    "episode": "S31E02",
+    "episode_id": 392,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -6111,7 +6112,7 @@
     ]
   },
   {
-    "episode": "S31E03",
+    "episode_id": 393,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -6129,7 +6130,7 @@
     ]
   },
   {
-    "episode": "S31E04",
+    "episode_id": 394,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -6145,7 +6146,7 @@
     ]
   },
   {
-    "episode": "S31E05",
+    "episode_id": 395,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -6157,7 +6158,7 @@
     ]
   },
   {
-    "episode": "S31E06",
+    "episode_id": 396,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -6175,7 +6176,7 @@
     ]
   },
   {
-    "episode": "S31E07",
+    "episode_id": 397,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -6191,7 +6192,7 @@
     ]
   },
   {
-    "episode": "S31E08",
+    "episode_id": 398,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -6206,7 +6207,7 @@
     ]
   },
   {
-    "episode": "S31E09",
+    "episode_id": 399,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -6225,7 +6226,7 @@
     ]
   },
   {
-    "episode": "S31E10",
+    "episode_id": 400,
     "colors": [
       "alizarin crimson",
       "black gesso",
@@ -6243,7 +6244,7 @@
     ]
   },
   {
-    "episode": "S31E11",
+    "episode_id": 401,
     "colors": [
       "alizarin crimson",
       "bright red",
@@ -6260,7 +6261,7 @@
     ]
   },
   {
-    "episode": "S31E12",
+    "episode_id": 402,
     "colors": [
       "alizarin crimson",
       "dark sienna",
@@ -6272,7 +6273,7 @@
     ]
   },
   {
-    "episode": "S31E13",
+    "episode_id": 403,
     "colors": [
       "alizarin crimson",
       "black gesso",

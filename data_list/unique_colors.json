@@ -1,74 +1,74 @@
 [
   {
-    "colors": "alizarin crimson",
+    "color": "alizarin crimson",
     "hex_code": "#4e1500"
   },
   {
-    "colors": "bright red",
+    "color": "bright red",
     "hex_code": "#db0000"
   },
   {
-    "colors": "cadmium yellow",
+    "color": "cadmium yellow",
     "hex_code": "#ffec00"
   },
   {
-    "colors": "phthalo green",
+    "color": "phthalo green",
     "hex_code": "#102e3c"
   },
   {
-    "colors": "prussian blue",
+    "color": "prussian blue",
     "hex_code": "#021e44"
   },
   {
-    "colors": "sap green",
+    "color": "sap green",
     "hex_code": "#0a3410"
   },
   {
-    "colors": "titanium white",
+    "color": "titanium white",
     "hex_code": "#ffffff"
   },
   {
-    "colors": "van dyke brown",
+    "color": "van dyke brown",
     "hex_code": "#221b15"
   },
   {
-    "colors": "black gesso",
+    "color": "black gesso",
     "hex_code": "#000000"
   },
   {
-    "colors": "burnt umber",
+    "color": "burnt umber",
     "hex_code": "#8a3324"
   },
   {
-    "colors": "indian yellow",
+    "color": "indian yellow",
     "hex_code": "#ffb800"
   },
   {
-    "colors": "phthalo blue",
+    "color": "phthalo blue",
     "hex_code": "#0c0040"
   },
   {
-    "colors": "yellow ochre",
+    "color": "yellow ochre",
     "hex_code": "#c79b00"
   },
   {
-    "colors": "liquid black",
+    "color": "liquid black",
     "hex_code": "#000000"
   },
   {
-    "colors": "midnight black",
+    "color": "midnight black",
     "hex_code": "#000000"
   },
   {
-    "colors": "liquid clear",
+    "color": "liquid clear",
     "hex_code": "#ffffff"
   },
   {
-    "colors": "dark sienna",
+    "color": "dark sienna",
     "hex_code": "#5f2e1f"
   },
   {
-    "colors": "indian red",
+    "color": "indian red",
     "hex_code": "#cd5c5c"
   }
 ]
