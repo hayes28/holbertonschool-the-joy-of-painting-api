@@ -1,6 +1,111 @@
 const express = require("express");
 const router = express.Router();
-const knex = require("../database"); // Import the database connection
+const knex = require("../database");
+
+
+// Endpoint to get all episodes
+router.get("/", async (req, res) => {
+  try {
+    // Get all episodes from database
+    const episodes = await knex("episodes");
+
+    // Send the episodes back to the client as JSON
+    res.json(episodes);
+  } catch (error) {
+    // Log error and send error response
+    console.error("Error getting episodes:", error);
+    res.status(500).send("Error getting episodes.");
+  }
+});
+
+// Endpoint to get all colors
+router.get("/colors", async (req, res) => {
+  try {
+    // Get all colors from database
+    const colors = await knex("unique_colors");
+
+    // Send the colors back to the client as JSON
+    res.json(colors);
+  } catch (error) {
+    // Log error and send error response
+    console.error("Error getting colors:", error);
+    res.status(500).send("Error getting colors.");
+  }
+});
+
+// Endpoint to get all subjects
+router.get("/subjects", async (req, res) => {
+  try {
+    // Get all subjects from database
+    const subjects = await knex("unique_subjects");
+
+    // Send the subjects back to the client as JSON
+    res.json(subjects);
+  } catch (error) {
+    // Log error and send error response
+    console.error("Error getting subjects:", error);
+    res.status(500).send("Error getting subjects.");
+  }
+});
+
+// Endpoint to filter episodes but with colors and subjects
+router.get("/filter", async (req, res) => {
+  try {
+    console.log("Query:", req.query);
+    console.log("Month:", req.query.month);
+
+    let query = knex("episodes");
+
+    // Add filtering by month and year if provided in query params
+    if (req.query.month) {
+      query.whereRaw("EXTRACT(MONTH FROM broadcast_date) = ?", [
+        req.query.month,
+      ]);
+    }
+    if (req.query.year) {
+      query.whereRaw("EXTRACT(YEAR FROM broadcast_date) = ?", [req.query.year]);
+    }
+
+    // Filter by Colors
+    if (req.query.colors) {
+      let colorNames = Array.isArray(req.query.colors)
+        ? req.query.colors
+        : [req.query.colors];
+      let colorIds = await knex("unique_colors")
+        .whereIn("color", colorNames)
+        .select("id");
+      query
+        .join("episode_color", "episodes.id", "episode_color.episode_id")
+        .whereIn(
+          "episode_color.color_id",
+          colorIds.map((c) => c.id)
+        );
+    }
+
+    // Filter by Subjects
+    if (req.query.subjects) {
+      let subjectNames = Array.isArray(req.query.subjects)
+        ? req.query.subjects
+        : [req.query.subjects];
+      let subjectIds = await knex("unique_subjects")
+        .whereIn("subject", subjectNames)
+        .select("id");
+      query
+        .join("episode_subject", "episodes.id", "episode_subject.episode_id")
+        .whereIn(
+          "episode_subject.subject_id",
+          subjectIds.map((s) => s.id)
+        );
+    }
+
+    // After adding all filters, execute the query
+    const episodes = await query.distinct().select("episodes.*");
+    res.json(episodes); // Send the result back as JSON
+  } catch (error) {
+    console.error("Error filtering episodes:", error);
+    res.status(500).send("Error filtering episodes.");
+  }
+});
 
 // Endpoint to filter episodes by month
 router.get("/by-month", async (req, res) => {
@@ -92,6 +197,14 @@ router.get("/by-subject", async (req, res) => {
     const subjectNames = Array.isArray(req.query.subjects)
       ? req.query.subjects
       : [req.query.subjects];
+
+    console.log("Subject Names:", subjectNames); // Log the subject names to debug
+    console.log(
+      knex("unique_subjects")
+        .whereIn("subject", subjectNames)
+        .select("id")
+        .toString()
+    );
 
     // Find the IDs of the subjects
     const subjectIds = await knex("unique_subjects")
