@@ -1,8 +1,14 @@
 import React, { useState } from "react";
 import axios from "axios";
 import moment from "moment";
-import FilterForm from "./components/FilterForm";
+import FilterForm from "./components/Filters/FilterForm";
 import "./App.css";
+
+function toTitles(s) {
+  return s.replace(/\w\S*/g, function (t) {
+    return t.charAt(0).toUpperCase() + t.substring(1).toLowerCase();
+  });
+}
 
 function App() {
   const [episodes, setEpisodes] = useState([]); // State to store filtered episodes
@@ -32,7 +38,7 @@ function App() {
       <div>
         {episodes.map((episode, index) => (
           <div key={index}>
-            <h2>{episode.title}</h2>
+            <h2>{toTitles(episode.title)}</h2>
             <p>Broadcast Date: {moment(episode.broadcast_date).format("LL")}</p>
             {/* 'LL' is the format string for a date like "September 4, 1986". Change it as needed. */}
             {/* Additional episode details can be displayed here */}

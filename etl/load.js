@@ -1,11 +1,8 @@
-const knex = require("knex")(require("./knexfile").development);
-const episodesData = require("./data_list/episodes_with_media.json");
-const uniqueColorsData = require("./data_list/unique_colors.json");
-const uniqueSubjectsData = require("./data_list/unique_subjects.json");
-const episodeColorMappings = require("./data_list/episode_color_mappings.json");
-const episodeSubjectMappings = require("./data_list/episode_subject_mappings.json");
+// Use the logic from knexInsert.js to insert transformed data into the database
+// This would likely use knex to build and run the SQL queries
+const knex = require('knex')(require('../knexfile').development);
 
-async function insertEpisodes() {
+async function insertEpisodes(episodesData) {
   for (const episode of episodesData) {
     await knex("episodes").insert({
       title: episode.title,
@@ -18,7 +15,7 @@ async function insertEpisodes() {
   }
 }
 
-async function insertUniqueColors() {
+async function insertUniqueColors(uniqueColorsData) {
   for (const color of uniqueColorsData) {
     await knex("unique_colors").insert({
       color: color.color,
@@ -27,14 +24,13 @@ async function insertUniqueColors() {
   }
 }
 
-
-async function insertUniqueSubjects() {
+async function insertUniqueSubjects(uniqueSubjectsData) {
   for (const subject of uniqueSubjectsData) {
     await knex("unique_subjects").insert({ subject });
   }
 }
 
-async function insertEpisodeColors() {
+async function insertEpisodeColors(episodeColorMappings) {
   for (const mapping of episodeColorMappings) {
     // Assume each mapping contains episode_id and an array of color names
     for (const color of mapping.colors) {
@@ -49,7 +45,7 @@ async function insertEpisodeColors() {
   }
 }
 
-async function insertEpisodeSubjects() {
+async function insertEpisodeSubjects(episodeSubjectMappings) {
   for (const mapping of episodeSubjectMappings) {
     // Assume each mapping contains episode_id and an array of subjects
     for (const subject of mapping.subjects) {
@@ -64,17 +60,23 @@ async function insertEpisodeSubjects() {
   }
 }
 
-async function insertAllData() {
+async function loadAllData() {
+  const episodesData = require('../data_list/episodes_with_media.json');
+  const uniqueColorsData = require('../data_list/unique_colors.json');
+  const uniqueSubjectsData = require('../data_list/unique_subjects.json');
+  const episodeColorMappings = require('../data_list/episode_color_mappings.json');
+  const episodeSubjectMappings = require('../data_list/episode_subject_mappings.json');
+
   try {
-    await insertEpisodes();
+    await insertEpisodes(episodesData);
     console.log("Episodes data inserted");
-    await insertUniqueColors();
+    await insertUniqueColors(uniqueColorsData);
     console.log("Unique colors data inserted");
-    await insertUniqueSubjects();
+    await insertUniqueSubjects(uniqueSubjectsData);
     console.log("Unique subjects data inserted");
-    await insertEpisodeColors();
+    await insertEpisodeColors(episodeColorMappings);
     console.log("Episode colors data inserted");
-    await insertEpisodeSubjects();
+    await insertEpisodeSubjects(episodeSubjectMappings);
     console.log("Episode subjects data inserted");
   } catch (err) {
     console.error("Error inserting data:", err);
@@ -83,4 +85,12 @@ async function insertAllData() {
   }
 }
 
-insertAllData();
+loadAllData();
+
+module.exports = {
+  insertEpisodes,
+  insertUniqueColors,
+  insertUniqueSubjects,
+  insertEpisodeColors,
+  insertEpisodeSubjects,
+};

@@ -1,0 +1,35 @@
+/* FiltersStyles.css */
+
+/* Filters */
+filters {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+}
+
+/* Filters > div */
+filters > div {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+}
+
+/* Filter Button */
+button {
+  justify-content: center;
+  align-items: center;
+  width: 10%;
+  height: 10%;
+  padding: 1rem;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #050404;
+  background-color: #f6eeee6b;
+  border: 5px solid #4711116b;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}

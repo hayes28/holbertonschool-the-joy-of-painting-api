@@ -1,7 +1,22 @@
 const express = require("express");
 const router = express.Router();
-const knex = require("../database");
+const knex = require("../../database");
 
+// Lookup object for month names to month numbers
+const monthLookup = {
+  January: 1,
+  February: 2,
+  March: 3,
+  April: 4,
+  May: 5,
+  June: 6,
+  July: 7,
+  August: 8,
+  September: 9,
+  October: 10,
+  November: 11,
+  December: 12,
+};
 
 // Endpoint to get all episodes
 router.get("/", async (req, res) => {
@@ -115,8 +130,14 @@ router.get("/by-month", async (req, res) => {
 
     // Add month condition if provided
     if (req.query.month) {
+      // Convert the month name to its numeric equivalent
+      const monthNumber = monthLookup[req.query.month];
+      if (monthNumber === undefined) {
+        // If monthNumber is undefined, an invalid month name was provided
+        return res.status(400).send("Invalid month name provided.");
+      }
       conditions.push(
-        knex.raw("EXTRACT(MONTH FROM broadcast_date) = ?", [req.query.month])
+        knex.raw("EXTRACT(MONTH FROM broadcast_date) = ?", [monthNumber])
       );
     }
 
@@ -140,8 +161,8 @@ router.get("/by-month", async (req, res) => {
     res.json(episodes);
   } catch (error) {
     // Log the error and send a 500 Internal Server Error response
-    console.error("Error getting episodes:", error);
-    res.status(500).send("Error getting episodes.");
+    console.error("Error getting episodes by month:", error);
+    res.status(500).send("Error getting episodes by month.");
   }
 });
 
@@ -189,6 +210,32 @@ router.get("/by-color", async (req, res) => {
   }
 });
 
+// ADDITIONAL ENDPOINTS
+// Endpoint to get subject suggestions based on a search term
+router.get("/suggestions", async (req, res) => {
+  // Get the subject search term from the query parameter
+  const searchTerm = req.query.subject;
+
+  try {
+    if (!searchTerm) {
+      // If no search term provided, return an empty array
+      return res.json([]);
+    }
+
+    // Query the unique_subjects table for subjects that start with the search term
+    // Use '%' as a wildcard in the SQL 'LIKE' operator
+    const suggestions = await knex("unique_subjects")
+      .where("subject", "ilike", `%${searchTerm}%`)
+      .select("subject");
+
+    // Send the suggestions back to the client as JSON
+    res.json(suggestions.map((s) => s.subject)); // Assuming you just want to send the subject strings
+  } catch (error) {
+    // Log error and send error response
+    console.error("Error getting suggestions:", error);
+    res.status(500).send("Error getting suggestions.");
+  }
+});
 
 // Endpoint to filter episodes by subject
 router.get("/by-subject", async (req, res) => {

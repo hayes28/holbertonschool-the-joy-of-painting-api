@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const episodesRouter = require("/home/hayes/holbertonschool-the-joy-of-painting-api/routes/episodes.js");
+const episodesRouter = require("./routes/episodes");
 
 // Middleware
 app.use(express.json());
