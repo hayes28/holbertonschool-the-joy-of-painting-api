@@ -26,13 +26,13 @@ This project is an ETL pipeline that extracts data from the Joy of Painting API,
 
 ## Features
 
-- ETL pipeline to extract data from raw files, transform it into a consistent format, and load it into a PostgreSQL database.
-- RESTful API endpoints to filter episodes by different criteria such as broadcast month, subject matter, and color palette.
-- Frontend React application to interact with the API (located in the `react-joy` directory).
+- An ETL pipeline to extract data from raw files, transform it into a consistent format, and load it into a PostgreSQL database.
+- RESTful API endpoints to filter episodes by broadcast month, subject matter, and color palette.
+- An optional frontend React application to interact with the API.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -56,20 +56,18 @@ cd joy-of-painting-api
     ```bash
     npm install
     ```
-3. Create a `.env` file in the root directory and add the following environment variables:
-    * `DB_USER`
-    * `DB_PASSWORD`
-    * `DB_HOST`
-    * `DB_PORT`
-    * `DB_DATABASE`
-4. Run the following command to start the ETL pipeline:
+3. Create a `.env` file in the root directory with your PostgreSQL credentials and database information.
+
+4. Initialize the database by running the SQL commands from `db/db.sql`.
+
+5. Run the following command to start the ETL pipeline:
     ```bash
     cd etl
     ```
     ```bash
     node etl.js
     ```
-5. Start the backend server:
+6. Start the backend server:
     ```bash
     cd ../api
     ```
@@ -80,21 +78,6 @@ cd joy-of-painting-api
 The API server should now be running on `http://localhost:3001`
 
 
-### Frontend Application
-1. Install the dependencies
-    ```bash
-    cd react-joy
-    ```
-    ```bash
-    npm install
-    ```
-2. Start the frontend server:
-    ```bash
-    npm start
-    ```
-
-The frontend server should now be running on `http://localhost:3000`
-
 ## API Usage
 The API supports various endpoints to retrieve episode information. Here are a few examples:
 
@@ -102,22 +85,36 @@ The API supports various endpoints to retrieve episode information. Here are a f
 * `GET /api/episodes?color=Alizarin Crimson` - Retrieve episodes where 'Alizarin Crimson' was used.
 
 ## Frontend Usage
-The frontend allows users to filter episodes by month, subject matter, and color palette. The user can select multiple filters at once and can choose to filter episodes that match all of the selected filters or episodes that match one or more of the selected filters.
+The frontend allows users to filter episodes by month, subject matter, and color palette through an intuitive interface:
+
+1. Navigate to the react-joy directory and install dependencies:
+    ```bash
+    cd react-joy
+    ```
+    ```bash
+    npm install
+    ```
+
+2. Start the frontend server:
+    ```bash
+    npm start
+    ```
+
+The frontend should now be running on `http://localhost:3000`
 
 ## Project Context
-This project is part of the curriculum at [Holberton School](https://www.holbertonschool.com/).
-In this project we are going to explore the idea of ETL (Extract, Transform, Load), which is the process of taking data from multiple unique sources, modifying them in some way, and then storing them in a centralized database. This is a very common practice when collecting data from systems in order to utilize that data in another system. This data may come in the form of CSV, JSON, XML, API requests with other custom formats, etc - it might even be that you have direct access to several databases with different, but relatable data that you want to be merged into another database in order to gain insight from it in some way.
+This project is a practical application of the ETL process, commonly used for data integration from various sources. It was designed as part of the curriculum at Holberton School.
 
 ## Presented Problem
 Your local public broadcasting station has an overwhelming amount of requests for information on The Joy of Painting. Their viewers want a website that allows them to filter the 403 episodes based on the following criteria:
 
--  <b>Month of original broadcast</b>
+-  **Month of original broadcast**
 This will be useful for viewers who wish to watch paintings that were done during that same month of the year
 
-- <b>Subject Matter</b>
+- **Subject Matter**
 This will be useful for viewers who wish to watch specific items get painted
 
-- <b>Color Palette</b>
+- **Color Palette**
 This will be useful for viewers who wish to watch specific colors being used in a painting
 
 Your local broadcasting station has already done some leg work to gather data, however it is spread out across multiple different files and formats, which makes the data unusable in its current form. They’ve also already hired another team to build a front-end to allow their viewers to filter episodes of The Joy of Painting and now they’ve hired you to help them with the process of designing and building a database that will house this collected data in a way that is usable and also build an API to access it.
@@ -186,18 +183,17 @@ Your local public broadcasting is super appreciative of all the work you’ve do
 
 ## Technologies Used
 I used the PERN stack for this project:
-* PostgreSQL
-* Express
-* React
-* Node.js
+* `PostgreSQL` - for the database.
+* `Express` - for the API server.
+* `React` - for the frontend application.
+* `Node.js` - for the backend environment.
 
 ## Future Improvements
-* Add pagination to the frontend
-* Add a loading spinner to the frontend
-* Add a search bar to the frontend
-* Add a dropdown menu to the frontend to select the number of episodes to display per page
-* Add a dropdown menu to the frontend to sort episodes by date, subject matter, or color palette
-* Add a dropdown menu to the frontend to select the order to display episodes in (ascending or descending)
+* Implement pagination for episode listings.
+* Introduce a loading spinner for asynchronous operations.
+* Add a search bar for direct episode lookup.
+* Provide sorting options by date, subject matter, or color palette.
+* Offer a feature to adjust the number of episodes displayed per page.
 
 ## Acknowledgements
 * [Holberton School](https://www.holbertonschool.com/)
